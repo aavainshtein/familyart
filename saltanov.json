@@ -1,0 +1,402 @@
+{
+  "artist": "Салтанов Сергей Николаевич",
+  "data_source": "ARTinvestment.RU",
+  "artworks": [
+    {
+      "title": "Этюд. Мужская фигура",
+      "image": "8283190_small.jpg",
+      "creation_year": "1905",
+      "dimensions_cm": "19,5х12",
+      "technique": "Бумага; масло",
+      "latest_sale_details": {
+        "date": "06.09.2025",
+        "auction_house": "Аукционный дом Художественный",
+        "estimate": "20 000 - 22 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "06.09.2025",
+          "auction_house": "Аукционный дом Художественный Москва (RU)",
+          "lot": "40-",
+          "estimate": "20 000 - 22 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Этюд. Мужская фигура",
+      "image": "8060430_small.jpg",
+      "creation_year": "1905",
+      "dimensions_cm": "19,5х12",
+      "technique": "Бумага; масло",
+      "latest_sale_details": {
+        "date": "15.03.2025",
+        "auction_house": "Аукционный дом Художественный",
+        "estimate": "20 000 - 22 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.03.2025",
+          "auction_house": "Аукционный дом Художественный Москва (RU)",
+          "lot": "42-",
+          "estimate": "20 000 - 22 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Дама в шляпе",
+      "image": "7239730_small.jpg",
+      "creation_year": "1900-е",
+      "dimensions_cm": "21х12",
+      "technique": "Бумага на картоне; масло",
+      "latest_sale_details": {
+        "date": "21.03.2023",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "15 000 - 18 750 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "21.03.2023",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "20",
+          "estimate": "15 000 - 18 750 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж с прудом",
+      "image": "7226810_small.jpg",
+      "creation_year": "1900-е",
+      "dimensions_cm": "47,8х60",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "01.12.2022",
+        "auction_house": "Аукционный дом Художественный",
+        "estimate": "30 000 - 40 000 RUR",
+        "sale_price": "50 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "01.12.2022",
+          "auction_house": "Аукционный дом Художественный Москва (RU)",
+          "lot": "47-",
+          "estimate": "30 000 - 40 000 RUR",
+          "result": "50 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Paysage",
+      "image": "6996450_small.jpeg",
+      "creation_year": "1908",
+      "dimensions_cm": "12х19",
+      "technique": "Бумага; масло",
+      "latest_sale_details": {
+        "date": "03.10.2022",
+        "auction_house": "Pousse Cornet - Valoir - Blois",
+        "estimate": "100 - 150 EUR",
+        "sale_price": "110 USD"
+      },
+      "sales_history": [
+        {
+          "date": "03.10.2022",
+          "auction_house": "Pousse Cornet - Valoir - Blois Blois (FR)",
+          "lot": "175",
+          "estimate": "100 - 150 EUR",
+          "result": "100 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "6211770_small.jpg",
+      "creation_year": "1906",
+      "dimensions_cm": "27,5х41",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "20.04.2021",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "18 000 - 22 500 RUR",
+        "sale_price": "18 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "20.04.2021",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "18",
+          "estimate": "18 000 - 22 500 RUR",
+          "result": "18 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Дама в вечернем платье",
+      "image": "6102970_small.jpg",
+      "creation_year": "1905",
+      "dimensions_cm": "21,7х11,7",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "16.02.2021",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "31 000 - 40 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "16.02.2021",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "13",
+          "estimate": "31 000 - 40 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Дама в шляпе",
+      "image": "6103010_small.jpg",
+      "creation_year": "1905",
+      "dimensions_cm": "21,5х11,2",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "16.02.2021",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "31 000 - 40 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "16.02.2021",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "15",
+          "estimate": "31 000 - 40 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Дама с зонтом",
+      "image": "6102990_small.jpg",
+      "creation_year": "1905",
+      "dimensions_cm": "22,2х12,4",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "16.02.2021",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "31 000 - 40 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "16.02.2021",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "14",
+          "estimate": "31 000 - 40 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "5860950_small.jpg",
+      "creation_year": "1906",
+      "dimensions_cm": "14х22,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "15.09.2020",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "36 000 - 45 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.09.2020",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "16",
+          "estimate": "36 000 - 45 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Au bord de l'eau",
+      "image": "5302050_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "37х54",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "06.10.2019",
+        "auction_house": "Metayer Maison de Ventes aux Enchères",
+        "estimate": "100 - 150 EUR",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "06.10.2019",
+          "auction_house": "Metayer Maison de Ventes aux Enchères Nevers (FR)",
+          "lot": "648",
+          "estimate": "100 - 150 EUR",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Перелесок",
+      "image": "4935250_small.jpg",
+      "creation_year": "1918",
+      "dimensions_cm": "24х27,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "28.02.2019",
+        "auction_house": "Русская эмаль",
+        "estimate": "30 000 - 40 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "28.02.2019",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "80",
+          "estimate": "30 000 - 40 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "4204510_small.jpg",
+      "creation_year": "1906",
+      "dimensions_cm": "27,5х41",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "24.10.2017",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "30 000 - 35 000 RUR",
+        "sale_price": "30 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "24.10.2017",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "31",
+          "estimate": "30 000 - 35 000 RUR",
+          "result": "30 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Портрет Льва Николаевича Толстого",
+      "image": "2469630_small.jpg",
+      "creation_year": "1905",
+      "dimensions_cm": "20,8х11,7",
+      "technique": "Бумага на картоне; масло",
+      "latest_sale_details": {
+        "date": "18.10.2012",
+        "auction_house": "Магнум Арс",
+        "estimate": "9 000 - 12 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "18.10.2012",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "45-",
+          "estimate": "9 000 - 12 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Портрет дамы с зонтиком. Татьяна Львовна Толстая",
+      "image": "2469650_small.jpeg",
+      "creation_year": "1905",
+      "dimensions_cm": "20,6х12,8",
+      "technique": "Бумага на картоне; масло",
+      "latest_sale_details": {
+        "date": "18.10.2012",
+        "auction_house": "Магнум Арс",
+        "estimate": "9 000 - 12 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "18.10.2012",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "45-",
+          "estimate": "9 000 - 12 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Лес усадьбы Л. Н. Толстого Ясная Поляна",
+      "image": "1649800_small.jpeg",
+      "creation_year": "1912",
+      "dimensions_cm": "40,5х62,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "08.05.2010",
+        "auction_house": "Schloss Ahlden",
+        "estimate": "Нет данных",
+        "sale_price": "Нет данных от аукциона"
+      },
+      "sales_history": [
+        {
+          "date": "08.05.2010",
+          "auction_house": "Schloss Ahlden Ahlden (DE)",
+          "lot": "1672",
+          "estimate": "Нет данных",
+          "result": "Нет данных"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж с церковью",
+      "image": "1cd1a16cc19a53bb5bb99c8a159bd737_small.jpg",
+      "creation_year": "Начало 1910-х",
+      "dimensions_cm": "35х25,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "07.06.2006",
+        "auction_house": "Совком",
+        "estimate": "2 200 - 2 400 USD",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "07.06.2006",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "11-",
+          "estimate": "2 200 - 2 400 USD",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Ранняя весна",
+      "image": "65314c04c7b790f24ea71b618c951537_small.jpg",
+      "creation_year": "1912",
+      "dimensions_cm": "37,5х26",
+      "technique": "Оргалит; масло",
+      "latest_sale_details": {
+        "date": "07.06.2006",
+        "auction_house": "Совком",
+        "estimate": "2 200 - 2 400 USD",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "07.06.2006",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "12-",
+          "estimate": "2 200 - 2 400 USD",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    }
+  ]
+}

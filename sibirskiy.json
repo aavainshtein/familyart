@@ -1,0 +1,72 @@
+{
+  "artist": "Сибирский Вениамин Михайлович",
+  "data_source": "ARTinvestment.RU",
+  "artworks": [
+    {
+      "title": "Гладиолусы",
+      "image": "8063890_small.jpg",
+      "creation_year": "1993",
+      "dimensions_cm": "70х50",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "15.03.2025",
+        "auction_house": "Аукционный дом Художественный",
+        "estimate": "36 000 - 38 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.03.2025",
+          "auction_house": "Аукционный дом Художественный Москва (RU)",
+          "lot": "248-",
+          "estimate": "36 000 - 38 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Портрет А.В. Суворова",
+      "image": "6301590_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "70х50",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "16.06.2021",
+        "auction_house": "Hermitage Fine Art",
+        "estimate": "300 - 500 EUR",
+        "sale_price": "329 USD"
+      },
+      "sales_history": [
+        {
+          "date": "16.06.2021",
+          "auction_house": "Hermitage Fine Art Monaco (MC)",
+          "lot": "71-",
+          "estimate": "300 - 500 EUR",
+          "result": "300 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Сенокос",
+      "image": "1021900_small.jpg",
+      "creation_year": "2001",
+      "dimensions_cm": "35х45",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "17.05.2007",
+        "auction_house": "Русская Галерея Искусств",
+        "estimate": "3 500 - 3 800 USD",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "17.05.2007",
+          "auction_house": "Русская Галерея Искусств Москва (RU)",
+          "lot": "40-",
+          "estimate": "3 500 - 3 800 USD",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    }
+  ]
+}

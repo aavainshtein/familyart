@@ -1,0 +1,1226 @@
+{
+  "artist": "Переплётчиков Василий Васильевич",
+  "data_source": "ARTinvestment.RU",
+  "artworks": [
+    {
+      "title": "The seaside road",
+      "image": "8236090_small.jpg",
+      "creation_year": "1890",
+      "dimensions_cm": "20,8х14,3",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "24.07.2025",
+        "auction_house": "Hermitage Fine Art",
+        "estimate": "1 800 - 2 200 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "24.07.2025",
+          "auction_house": "Hermitage Fine Art Monaco (MC)",
+          "lot": "388",
+          "estimate": "1 800 - 2 200 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Летний этюд",
+      "image": "8170190_small.jpg",
+      "creation_year": "1897",
+      "dimensions_cm": "14х18",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "31.05.2025",
+        "auction_house": "Русская эмаль",
+        "estimate": "47 000 - 100 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "31.05.2025",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "10",
+          "estimate": "47 000 - 100 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "The seaside road",
+      "image": "8094010_small.jpg",
+      "creation_year": "1890",
+      "dimensions_cm": "20,8х14,3",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "31.03.2025",
+        "auction_house": "Hermitage Fine Art",
+        "estimate": "2 500 - 3 500 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "31.03.2025",
+          "auction_house": "Hermitage Fine Art Monaco (MC)",
+          "lot": "121-",
+          "estimate": "2 500 - 3 500 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Лесной пейзаж",
+      "image": "8067670_small.jpg",
+      "creation_year": "1911",
+      "dimensions_cm": "68х93",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "18.03.2025",
+        "auction_house": "Cazo",
+        "estimate": "15 000 - 15 000 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "18.03.2025",
+          "auction_house": "Cazo Paris (FR)",
+          "lot": "42-",
+          "estimate": "15 000 - 15 000 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Летний пейзаж. Горки Зарайского уезда",
+      "image": "7652010_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "15х23,7",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "19.03.2024",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "168 000 - 210 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "19.03.2024",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "9",
+          "estimate": "168 000 - 210 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж с деревьями",
+      "image": "7193590_small.jpg",
+      "creation_year": "1897",
+      "dimensions_cm": "28х41,7",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "23.03.2023",
+        "auction_house": "Совком",
+        "estimate": "500 000 - 1 000 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "23.03.2023",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "12",
+          "estimate": "500 000 - 1 000 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Вид на монастырь",
+      "image": "7148210_small.jpg",
+      "creation_year": "1890-е - 1900-е",
+      "dimensions_cm": "23,1х32,7",
+      "technique": "Бумага на картоне; масло",
+      "latest_sale_details": {
+        "date": "18.03.2023",
+        "auction_house": "Аукционный дом Художественный",
+        "estimate": "250 000 - 270 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "18.03.2023",
+          "auction_house": "Аукционный дом Художественный Москва (RU)",
+          "lot": "25-",
+          "estimate": "250 000 - 270 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "21.01.2023",
+          "auction_house": "Аукционный дом Художественный Москва (RU)",
+          "lot": "31-",
+          "estimate": "330 000 - 340 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "6248290_small.jpg",
+      "creation_year": "1897",
+      "dimensions_cm": "20х27",
+      "technique": "Бумага; масло",
+      "latest_sale_details": {
+        "date": "22.05.2021",
+        "auction_house": "Литфонд",
+        "estimate": "1 - 1 RUR",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "22.05.2021",
+          "auction_house": "Литфонд Москва (RU)",
+          "lot": "22-",
+          "estimate": "1 - 1 RUR",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Барка",
+      "image": "6233950_small.jpg",
+      "creation_year": "1890-е — 1910-е",
+      "dimensions_cm": "24,3х14",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "30.04.2021",
+        "auction_house": "AI Аукцион",
+        "estimate": "Нет данных",
+        "sale_price": "70 800 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "30.04.2021",
+          "auction_house": "AI Аукцион Москва (RU)",
+          "lot": "119284",
+          "estimate": "Нет данных",
+          "result": "70 800 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "5871390_small.jpg",
+      "creation_year": "1897",
+      "dimensions_cm": "20х27",
+      "technique": "Бумага; масло",
+      "latest_sale_details": {
+        "date": "12.09.2020",
+        "auction_house": "Литфонд",
+        "estimate": "1 - 1 RUR",
+        "sale_price": "42 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "12.09.2020",
+          "auction_house": "Литфонд Москва (RU)",
+          "lot": "11-",
+          "estimate": "1 - 1 RUR",
+          "result": "42 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "A clearing in the woods",
+      "image": "5369790_small.jpg",
+      "creation_year": "1894",
+      "dimensions_cm": "45,5х76,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "26.11.2019",
+        "auction_house": "Sothebys",
+        "estimate": "12 000 - 18 000 GBP",
+        "sale_price": "19 298 USD"
+      },
+      "sales_history": [
+        {
+          "date": "26.11.2019",
+          "auction_house": "Sothebys London",
+          "lot": "25-",
+          "estimate": "12 000 - 18 000 GBP",
+          "result": "15 000 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж с прудом",
+      "image": "5397550_small.jpg",
+      "creation_year": "1893",
+      "dimensions_cm": "47х78",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "14.11.2019",
+        "auction_house": "Аукционный дом номер один",
+        "estimate": "640 000 - 750 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "14.11.2019",
+          "auction_house": "Аукционный дом номер один Москва (RU)",
+          "lot": "4",
+          "estimate": "640 000 - 750 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Васильсурск",
+      "image": "5269990_small.jpg",
+      "creation_year": "1897",
+      "dimensions_cm": "28х42,5",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "21.09.2019",
+        "auction_house": "Русская эмаль",
+        "estimate": "360 000 - 380 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "21.09.2019",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "34",
+          "estimate": "360 000 - 380 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "23.02.2012",
+          "auction_house": "Auktionshaus Mehlis Plauen (DE)",
+          "lot": "216-",
+          "estimate": "1 500 - 1 500 EUR",
+          "result": "Нет данных"
+        },
+        {
+          "date": "27.11.2007",
+          "auction_house": "Bukowskis Auctions Stockholm (SE)",
+          "lot": "1084",
+          "estimate": "4 255 - 5 319 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Весна",
+      "image": "5169630_small.jpg",
+      "creation_year": "1897",
+      "dimensions_cm": "27,1х40,8",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "13.07.2019",
+        "auction_house": "Русская эмаль",
+        "estimate": "250 000 - 300 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "13.07.2019",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "27",
+          "estimate": "250 000 - 300 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Весенний день",
+      "image": "5089150_small.jpg",
+      "creation_year": "1890",
+      "dimensions_cm": "36х63",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "25.05.2019",
+        "auction_house": "Русская эмаль",
+        "estimate": "825 000 - 850 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "25.05.2019",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "26",
+          "estimate": "825 000 - 850 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Без названия (Пейзаж)",
+      "image": "4735590_small.jpg",
+      "creation_year": "1896",
+      "dimensions_cm": "58,2х40",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "19.10.2018",
+        "auction_house": "AI Аукцион",
+        "estimate": "Нет данных",
+        "sale_price": "200 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "19.10.2018",
+          "auction_house": "AI Аукцион Москва (RU)",
+          "lot": "105289",
+          "estimate": "Нет данных",
+          "result": "200 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж с прудом",
+      "image": "4296730_small.jpg",
+      "creation_year": "1900-е – 1910-е",
+      "dimensions_cm": "13х32",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "06.12.2017",
+        "auction_house": "Аукционный дом Кабинет",
+        "estimate": "220 000 - 260 000 RUR",
+        "sale_price": "220 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "06.12.2017",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "6",
+          "estimate": "220 000 - 260 000 RUR",
+          "result": "220 000 RUR"
+        },
+        {
+          "date": "28.02.2009",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "624-",
+          "estimate": "240 000 - 360 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Мостик",
+      "image": "3872630_small.jpg",
+      "creation_year": "К. XIX—нач. ХХ",
+      "dimensions_cm": "17,8х21,5",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "18.02.2017",
+        "auction_house": "Литфонд",
+        "estimate": "100 000 - 110 000 RUR",
+        "sale_price": "100 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "18.02.2017",
+          "auction_house": "Литфонд Москва (RU)",
+          "lot": "66",
+          "estimate": "100 000 - 110 000 RUR",
+          "result": "100 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Sommerlandschaft",
+      "image": "3802510_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "21х34",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "08.12.2016",
+        "auction_house": "Auktionshaus Michael Zeller",
+        "estimate": "300 - 300 EUR",
+        "sale_price": "637 USD"
+      },
+      "sales_history": [
+        {
+          "date": "08.12.2016",
+          "auction_house": "Auktionshaus Michael Zeller Lindau (DE)",
+          "lot": "996",
+          "estimate": "300 - 300 EUR",
+          "result": "600 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Пасмурный день",
+      "image": "3109850_small.jpg",
+      "creation_year": "Ок. 1910",
+      "dimensions_cm": "14х31,5",
+      "technique": "Бумага; темпера",
+      "latest_sale_details": {
+        "date": "24.03.2016",
+        "auction_house": "Дом антикварной книги \"В Никитском\"",
+        "estimate": "135 000 - 140 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "24.03.2016",
+          "auction_house": "Дом антикварной книги \"В Никитском\" Москва (RU)",
+          "lot": "63",
+          "estimate": "135 000 - 140 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "16.09.2015",
+          "auction_house": "Дом антикварной книги \"В Никитском\" Москва (RU)",
+          "lot": "31",
+          "estimate": "90 000 - 95 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "09.10.2014",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "83",
+          "estimate": "2 500 - 3 000 USD",
+          "result": "2 500 USD"
+        }
+      ]
+    },
+    {
+      "title": "Afternoon Light on the River, Autumn",
+      "image": "3453010_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "33х53",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "12.12.2015",
+        "auction_house": "Shapiro Auctions",
+        "estimate": "2 000 - 3 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "12.12.2015",
+          "auction_house": "Shapiro Auctions New York (US)",
+          "lot": "18",
+          "estimate": "2 000 - 3 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "On the river",
+      "image": "3151790_small.jpg",
+      "creation_year": "1897",
+      "dimensions_cm": "12х20",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "24.11.2014",
+        "auction_house": "Christies",
+        "estimate": "1 500 - 2 000 GBP",
+        "sale_price": "2 945 USD"
+      },
+      "sales_history": [
+        {
+          "date": "24.11.2014",
+          "auction_house": "Christies London, King Street",
+          "lot": "17",
+          "estimate": "1 500 - 2 000 GBP",
+          "result": "1 875 GBP"
+        },
+        {
+          "date": "25.11.2013",
+          "auction_house": "Christies London, King Street",
+          "lot": "17",
+          "estimate": "1 500 - 2 000 GBP",
+          "result": "2 250 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Старая усадьба",
+      "image": "3130870_small.jpg",
+      "creation_year": "1886",
+      "dimensions_cm": "15,5х18,4",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "15.11.2014",
+        "auction_house": "Восточно-Европейский Антикварный Дом",
+        "estimate": "612 000 - 612 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.11.2014",
+          "auction_house": "Восточно-Европейский Антикварный Дом Москва (RU)",
+          "lot": "52",
+          "estimate": "612 000 - 612 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Река Ока. У Алексино",
+      "image": "3109430_small.jpg",
+      "creation_year": "1891",
+      "dimensions_cm": "24х28,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "09.10.2014",
+        "auction_house": "Магнум Арс",
+        "estimate": "4 500 - 6 000 USD",
+        "sale_price": "4 500 USD"
+      },
+      "sales_history": [
+        {
+          "date": "09.10.2014",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "59",
+          "estimate": "4 500 - 6 000 USD",
+          "result": "4 500 USD"
+        }
+      ]
+    },
+    {
+      "title": "Paysage",
+      "image": "2876170_small.jpg",
+      "creation_year": "1893",
+      "dimensions_cm": "31х53",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "09.12.2013",
+        "auction_house": "Hôtel des ventes de Genève",
+        "estimate": "4 000 - 8 000 CHF",
+        "sale_price": "7 862 USD"
+      },
+      "sales_history": [
+        {
+          "date": "09.12.2013",
+          "auction_house": "Hôtel des ventes de Genève Geneva (CH)",
+          "lot": "120",
+          "estimate": "4 000 - 8 000 CHF",
+          "result": "7 000 CHF"
+        }
+      ]
+    },
+    {
+      "title": "Лесная опушка",
+      "image": "2862550_small.jpg",
+      "creation_year": "1891",
+      "dimensions_cm": "71х97",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "07.12.2013",
+        "auction_house": "Знакъ-Арт",
+        "estimate": "1 500 000 - 1 500 000 RUR",
+        "sale_price": "1 500 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "07.12.2013",
+          "auction_house": "Знакъ-Арт Москва (RU)",
+          "lot": "6-",
+          "estimate": "1 500 000 - 1 500 000 RUR",
+          "result": "1 500 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Дорога (1) | Поле (2) | Зима (3)",
+      "image": "2820470_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "10х15,5",
+      "technique": "Доска; масло (3)",
+      "latest_sale_details": {
+        "date": "10.11.2013",
+        "auction_house": "Аукционный дом «Три века»",
+        "estimate": "500 000 - 600 000 RUR",
+        "sale_price": "450 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "10.11.2013",
+          "auction_house": "Аукционный дом «Три века» Москва (RU)",
+          "lot": "21",
+          "estimate": "500 000 - 600 000 RUR",
+          "result": "450 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Зимний пейзаж",
+      "image": "2790850_small.jpg",
+      "creation_year": "1902",
+      "dimensions_cm": "41х72",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "24.10.2013",
+        "auction_house": "Совком",
+        "estimate": "400 000 - 600 000 RUR",
+        "sale_price": "400 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "24.10.2013",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "35-",
+          "estimate": "400 000 - 600 000 RUR",
+          "result": "400 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Причал",
+      "image": "2652730_small.jpg",
+      "creation_year": "1894",
+      "dimensions_cm": "32х56,2",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "22.05.2013",
+        "auction_house": "Магнум Арс",
+        "estimate": "9 000 - 12 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "22.05.2013",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "83-",
+          "estimate": "9 000 - 12 000 USD",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "07.03.2012",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "232",
+          "estimate": "580 000 - 800 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "02.03.2012",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "30",
+          "estimate": "650 000 - 900 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "26.02.2011",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "175",
+          "estimate": "800 000 - 1 200 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Весна. Проталины",
+      "image": "2654530_small.jpg",
+      "creation_year": "1902",
+      "dimensions_cm": "78,7х55,7",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "22.05.2013",
+        "auction_house": "Магнум Арс",
+        "estimate": "48 000 - 55 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "22.05.2013",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "63-",
+          "estimate": "48 000 - 55 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Ферма в снегу",
+      "image": "",
+      "creation_year": "1899",
+      "dimensions_cm": "0х0",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "28.11.2012",
+        "auction_house": "Aguttes",
+        "estimate": "1 500 - 2 000 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "28.11.2012",
+          "auction_house": "Aguttes Paris (FR)",
+          "lot": "282c",
+          "estimate": "1 500 - 2 000 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж с лодкой",
+      "image": "2419410_small.jpg",
+      "creation_year": "1890",
+      "dimensions_cm": "33,2х52,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "05.07.2012",
+        "auction_house": "Гелос",
+        "estimate": "300 000 - 500 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "05.07.2012",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "361",
+          "estimate": "300 000 - 500 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "28.06.2012",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "234",
+          "estimate": "300 000 - 500 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "К вечеру. Лесная дорога",
+      "image": "2119770_small.jpg",
+      "creation_year": "1880-е",
+      "dimensions_cm": "44,5х54",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "18.10.2011",
+        "auction_house": "Магнум Арс",
+        "estimate": "60 000 - 70 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "18.10.2011",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "26-",
+          "estimate": "60 000 - 70 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Летний пейзаж",
+      "image": "2126250_small.jpg",
+      "creation_year": "1900 - 1910е",
+      "dimensions_cm": "10,3х25,3",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "07.10.2011",
+        "auction_house": "Гелос",
+        "estimate": "220 000 - 280 000 RUR",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "07.10.2011",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "155",
+          "estimate": "220 000 - 280 000 RUR",
+          "result": "Нет результата &lt;"
+        },
+        {
+          "date": "30.09.2011",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "90",
+          "estimate": "250 000 - 400 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "﻿Осень",
+      "image": "1976130_small.jpg",
+      "creation_year": "1897",
+      "dimensions_cm": "21х40",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "23.04.2011",
+        "auction_house": "Галерея Леонида Шишкина",
+        "estimate": "420 000 - 480 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "23.04.2011",
+          "auction_house": "Галерея Леонида Шишкина Москва (RU)",
+          "lot": "69-",
+          "estimate": "420 000 - 480 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Деревенька",
+      "image": "1812410_small.jpg",
+      "creation_year": "1880-е",
+      "dimensions_cm": "9,7х16,2",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "16.11.2010",
+        "auction_house": "Магнум Арс",
+        "estimate": "3 000 - 4 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "16.11.2010",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "19-",
+          "estimate": "3 000 - 4 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Самара. Волжский пейзаж",
+      "image": "1812610_small.jpg",
+      "creation_year": "1887",
+      "dimensions_cm": "11,4х20,8",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "16.11.2010",
+        "auction_house": "Магнум Арс",
+        "estimate": "7 000 - 9 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "16.11.2010",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "27-",
+          "estimate": "7 000 - 9 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Начало весны",
+      "image": "1838570_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "21,5х38,7",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "14.11.2010",
+        "auction_house": "Русские сезоны",
+        "estimate": "240 000 - 300 000 RUR",
+        "sale_price": "264 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "14.11.2010",
+          "auction_house": "Русские сезоны Санкт-Петербург (RU)",
+          "lot": "47",
+          "estimate": "240 000 - 300 000 RUR",
+          "result": "264 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж с церковью. Русский север",
+      "image": "1652560_small.jpg",
+      "creation_year": "1909",
+      "dimensions_cm": "22х40",
+      "technique": "Бумага на картоне; темпера",
+      "latest_sale_details": {
+        "date": "22.05.2010",
+        "auction_house": "Галерея Леонида Шишкина",
+        "estimate": "350 000 - 400 000 RUR",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "22.05.2010",
+          "auction_house": "Галерея Леонида Шишкина Москва (RU)",
+          "lot": "81-",
+          "estimate": "350 000 - 400 000 RUR",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Поселок с избами",
+      "image": "1606960_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "51х65,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "02.04.2010",
+        "auction_house": "Aguttes",
+        "estimate": "8 000 - 10 000 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "02.04.2010",
+          "auction_house": "Aguttes Paris",
+          "lot": "10-",
+          "estimate": "8 000 - 10 000 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Зимой в лесу",
+      "image": "1080480_small.jpg",
+      "creation_year": "1890-е",
+      "dimensions_cm": "30х39,5",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "04.10.2008",
+        "auction_house": "Корнерс",
+        "estimate": "50 000 - 70 000 USD",
+        "sale_price": "50 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "04.10.2008",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "23",
+          "estimate": "50 000 - 70 000 USD",
+          "result": "50 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Осенний свет",
+      "image": "4ecee539f6c66563f5b039abfd23a110_small.jpg",
+      "creation_year": "1890",
+      "dimensions_cm": "38х61",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "21.04.2007",
+        "auction_house": "Совком",
+        "estimate": "520 000 - 700 000 RUR",
+        "sale_price": "850 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "21.04.2007",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "15-",
+          "estimate": "520 000 - 700 000 RUR",
+          "result": "850 000 RUR"
+        },
+        {
+          "date": "29.11.2006",
+          "auction_house": "Christies London",
+          "lot": "75-",
+          "estimate": "19 000 - 28 000 USD",
+          "result": "12 000 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Осенний парк и аллея",
+      "image": "",
+      "creation_year": "1914",
+      "dimensions_cm": "78х93",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "25.02.2005",
+        "auction_house": "Neumeister",
+        "estimate": "4 000 - 4 000 EUR",
+        "sale_price": "44 493 USD"
+      },
+      "sales_history": [
+        {
+          "date": "25.02.2005",
+          "auction_house": "Neumeister Munich (DE)",
+          "lot": "607-",
+          "estimate": "4 000 - 4 000 EUR",
+          "result": "33 600 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Пейзажи",
+      "image": "fbc098b48d1edbc1b0e60896368d9ad6_small.jpeg",
+      "creation_year": "1893",
+      "dimensions_cm": "9,5х16",
+      "technique": "Доска; масло (2)",
+      "latest_sale_details": {
+        "date": "30.11.2004",
+        "auction_house": "Christies",
+        "estimate": "9 100 - 13 000 GBP",
+        "sale_price": "6 851 USD"
+      },
+      "sales_history": [
+        {
+          "date": "30.11.2004",
+          "auction_house": "Christies London",
+          "lot": "221-",
+          "estimate": "9 100 - 13 000 GBP",
+          "result": "3 585 GBP"
+        },
+        {
+          "date": "27.05.2004",
+          "auction_house": "Sothebys London",
+          "lot": "388-",
+          "estimate": "5 000 - 7 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Лесной луг",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "19х25,7",
+      "technique": "Холст на доске; масло",
+      "latest_sale_details": {
+        "date": "20.11.2002",
+        "auction_house": "Sothebys",
+        "estimate": "2 000 - 3 000 GBP",
+        "sale_price": "2 818 USD"
+      },
+      "sales_history": [
+        {
+          "date": "20.11.2002",
+          "auction_house": "Sothebys London",
+          "lot": "50-",
+          "estimate": "2 000 - 3 000 GBP",
+          "result": "1 792 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Русский пейзаж",
+      "image": "e3e83aeb600879d6c4f9ae6c2d37c9c3_small.jpeg",
+      "creation_year": "1898",
+      "dimensions_cm": "21х27,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "15.09.2001",
+        "auction_house": "Sigalas Auktion",
+        "estimate": "1 300 - 1 300 DEM",
+        "sale_price": "654 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.09.2001",
+          "auction_house": "Sigalas Auktion Hildrizhausen (DE)",
+          "lot": "658-",
+          "estimate": "1 300 - 1 300 DEM",
+          "result": "1 560 DEM"
+        }
+      ]
+    },
+    {
+      "title": "Крестьянская изба под пасмурным небом",
+      "image": "",
+      "creation_year": "1891",
+      "dimensions_cm": "12х20",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "28.06.2001",
+        "auction_house": "Leo Spik",
+        "estimate": "1 600 - 1 600 DEM",
+        "sale_price": "603 USD"
+      },
+      "sales_history": [
+        {
+          "date": "28.06.2001",
+          "auction_house": "Leo Spik Berlin (DE)",
+          "lot": "284-",
+          "estimate": "1 600 - 1 600 DEM",
+          "result": "1 440 DEM"
+        }
+      ]
+    },
+    {
+      "title": "Изба летом",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "21,5х32,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "07.07.2000",
+        "auction_house": "Christies",
+        "estimate": "1 200 - 1 800 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "07.07.2000",
+          "auction_house": "Christies London",
+          "lot": "100-",
+          "estimate": "1 200 - 1 800 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Поле ржи",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "63,5х95",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "18.05.1997",
+        "auction_house": "Bukowskis Auctions",
+        "estimate": "9 000 - 9 000 FIM",
+        "sale_price": "1 428 USD"
+      },
+      "sales_history": [
+        {
+          "date": "18.05.1997",
+          "auction_house": "Bukowskis Auctions Helsinki (FI)",
+          "lot": "90-",
+          "estimate": "9 000 - 9 000 FIM",
+          "result": "9 000 FIM"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж с пастухами",
+      "image": "",
+      "creation_year": "1890",
+      "dimensions_cm": "37,5х59",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "25.09.1993",
+        "auction_house": "Alfa Art",
+        "estimate": "1 800 - 2 000 USD",
+        "sale_price": "2 400 USD"
+      },
+      "sales_history": [
+        {
+          "date": "25.09.1993",
+          "auction_house": "Alfa Art Москва (RU)",
+          "lot": "23-",
+          "estimate": "1 800 - 2 000 USD",
+          "result": "2 400 USD"
+        }
+      ]
+    },
+    {
+      "title": "Речной пейзаж",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "14,5х21",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "03.04.1993",
+        "auction_house": "Bolland &amp; Marotz",
+        "estimate": "1 600 - 1 600 DEM",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "03.04.1993",
+          "auction_house": "Bolland &amp; Marotz Bremen (DE)",
+          "lot": "690-",
+          "estimate": "1 600 - 1 600 DEM",
+          "result": "Лот не продан"
+        }
+      ]
+    }
+  ]
+}

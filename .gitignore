@@ -1,0 +1,29 @@
+# Исходные HTML файлы (сохранённые страницы)
+*.html
+!index.html
+
+# Папки с ресурсами сохранённых страниц
+*_files/
+
+# HTM файлы
+*.htm
+
+# Python скрипты (использовались для парсинга)
+*.py
+__pycache__/
+*.pyc
+
+# PDF файлы
+*.pdf
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*

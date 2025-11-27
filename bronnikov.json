@@ -1,0 +1,664 @@
+{
+  "artist": "Бронников Фёдор Андреевич",
+  "data_source": "ARTinvestment.RU",
+  "artworks": [
+    {
+      "title": "Нищий",
+      "image": "8377330_small.jpg",
+      "creation_year": "1876",
+      "dimensions_cm": "76х51,3",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.11.2025",
+        "auction_house": "Аукционный дом номер один",
+        "estimate": "2 450 000 - 3 200 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.11.2025",
+          "auction_house": "Аукционный дом номер один Москва (RU)",
+          "lot": "18",
+          "estimate": "2 450 000 - 3 200 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Этюд к картине «Вид на озеро Комо»",
+      "image": "8079910_small.jpg",
+      "creation_year": "Кон. ХIХ",
+      "dimensions_cm": "24х40",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "29.03.2025",
+        "auction_house": "Русская эмаль",
+        "estimate": "50 000 - 70 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "29.03.2025",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "20",
+          "estimate": "50 000 - 70 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Нищий",
+      "image": "8077930_small.jpg",
+      "creation_year": "1876",
+      "dimensions_cm": "76х51,3",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "22.03.2025",
+        "auction_house": "Аукционный дом номер один",
+        "estimate": "2 800 000 - 3 500 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "22.03.2025",
+          "auction_house": "Аукционный дом номер один Москва (RU)",
+          "lot": "7",
+          "estimate": "2 800 000 - 3 500 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "A Girl on Stairs",
+      "image": "7936170_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "72,5х25",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "04.12.2024",
+        "auction_house": "MacDougall",
+        "estimate": "5 000 - 10 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "04.12.2024",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "15-",
+          "estimate": "5 000 - 10 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Итальянская сцена",
+      "image": "7758590_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "39,5х30,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "20.06.2024",
+        "auction_house": "MacDougall",
+        "estimate": "20 000 - 30 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "20.06.2024",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "38-",
+          "estimate": "20 000 - 30 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "08.06.2011",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "192-",
+          "estimate": "30 000 - 50 000 GBP",
+          "result": "36 220 GBP"
+        },
+        {
+          "date": "03.12.2009",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "277-",
+          "estimate": "20 000 - 30 000 GBP",
+          "result": "23 175 GBP"
+        }
+      ]
+    },
+    {
+      "title": "A Girl on Stairs",
+      "image": "7591930_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "72,5х25",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "05.12.2023",
+        "auction_house": "MacDougall",
+        "estimate": "10 000 - 15 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "05.12.2023",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "21-",
+          "estimate": "10 000 - 15 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "У храма",
+      "image": "7100170_small.jpg",
+      "creation_year": "К. XIX",
+      "dimensions_cm": "26х43",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "27.04.2023",
+        "auction_house": "Аукционный дом номер один",
+        "estimate": "65 000 - 90 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "27.04.2023",
+          "auction_house": "Аукционный дом номер один Москва (RU)",
+          "lot": "27",
+          "estimate": "65 000 - 90 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "15.12.2022",
+          "auction_house": "Аукционный дом номер один Москва (RU)",
+          "lot": "28",
+          "estimate": "80 000 - 110 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "20.02.2018",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "32",
+          "estimate": "470 000 - 600 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "View of the Pantheon (1) | View of the Roman Forum with the Arch of Septimius Severus (2)",
+      "image": "7296850_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "12,5х19",
+      "technique": "Доска; масло (2)",
+      "latest_sale_details": {
+        "date": "27.04.2023",
+        "auction_house": "Bertolami Fine Arts",
+        "estimate": "1 500 - 3 000 EUR",
+        "sale_price": "1 098 USD"
+      },
+      "sales_history": [
+        {
+          "date": "27.04.2023",
+          "auction_house": "Bertolami Fine Arts Rome (IT)",
+          "lot": "317",
+          "estimate": "1 500 - 3 000 EUR",
+          "result": "1 000 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Этюд к картине «Вид на озеро Комо»",
+      "image": "6826470_small.jpg",
+      "creation_year": "Кон. ХIХ",
+      "dimensions_cm": "24х40",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "28.05.2022",
+        "auction_house": "Русская эмаль",
+        "estimate": "50 000 - 70 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "28.05.2022",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "39",
+          "estimate": "50 000 - 70 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Afternoon in the Park",
+      "image": "5973910_small.jpg",
+      "creation_year": "1873",
+      "dimensions_cm": "19,5х26",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "01.12.2020",
+        "auction_house": "Sothebys",
+        "estimate": "8 000 - 12 000 GBP",
+        "sale_price": "12 728 USD"
+      },
+      "sales_history": [
+        {
+          "date": "01.12.2020",
+          "auction_house": "Sothebys London",
+          "lot": "17-",
+          "estimate": "8 000 - 12 000 GBP",
+          "result": "10 080 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Frascati Street View",
+      "image": "5893190_small.jpg",
+      "creation_year": "1886",
+      "dimensions_cm": "46х23,8",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "24.09.2020",
+        "auction_house": "Hampel",
+        "estimate": "25 000 - 35 000 EUR",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "24.09.2020",
+          "auction_house": "Hampel Munich (DE)",
+          "lot": "740",
+          "estimate": "25 000 - 35 000 EUR",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Hymn of the Pythagoreans to the Rising Sun",
+      "image": "5369430_small.jpg",
+      "creation_year": "1877",
+      "dimensions_cm": "79,5х159,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "26.11.2019",
+        "auction_house": "Sothebys",
+        "estimate": "300 000 - 500 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "26.11.2019",
+          "auction_house": "Sothebys London",
+          "lot": "11-",
+          "estimate": "300 000 - 500 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Street in Frascati",
+      "image": "5383690_small.jpg",
+      "creation_year": "1886",
+      "dimensions_cm": "46х24",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "25.11.2019",
+        "auction_house": "MacDougall",
+        "estimate": "25 000 - 40 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "25.11.2019",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "284-",
+          "estimate": "25 000 - 40 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Женский портрет",
+      "image": "5270230_small.jpg",
+      "creation_year": "1900",
+      "dimensions_cm": "20,5х15,6",
+      "technique": "Фанера; масло",
+      "latest_sale_details": {
+        "date": "21.09.2019",
+        "auction_house": "Русская эмаль",
+        "estimate": "300 000 - 350 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "21.09.2019",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "45",
+          "estimate": "300 000 - 350 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Монах",
+      "image": "4783670_small.jpg",
+      "creation_year": "1860-е",
+      "dimensions_cm": "34,2х25,3",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "24.11.2018",
+        "auction_house": "Литфонд",
+        "estimate": "1 - 1 RUR",
+        "sale_price": "200 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "24.11.2018",
+          "auction_house": "Литфонд Москва (RU)",
+          "lot": "8",
+          "estimate": "1 - 1 RUR",
+          "result": "200 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Портрет итальянки",
+      "image": "4512090_small.jpg",
+      "creation_year": "К. 1860-х—1870-е",
+      "dimensions_cm": "19,5х16,3",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "17.05.2018",
+        "auction_house": "Литфонд",
+        "estimate": "1 - 1 RUR",
+        "sale_price": "220 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "17.05.2018",
+          "auction_house": "Литфонд Москва (RU)",
+          "lot": "9",
+          "estimate": "1 - 1 RUR",
+          "result": "220 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "На улице итальянского города",
+      "image": "4183770_small.jpg",
+      "creation_year": "сер. 1850-х",
+      "dimensions_cm": "39,5х26,8",
+      "technique": "Бумага на холсте; масло",
+      "latest_sale_details": {
+        "date": "20.10.2017",
+        "auction_house": "Аукционный дом Кабинет",
+        "estimate": "2 000 000 - 2 100 000 RUR",
+        "sale_price": "1 950 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "20.10.2017",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "3",
+          "estimate": "2 000 000 - 2 100 000 RUR",
+          "result": "1 950 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Улица в Субиако. Религиозная процессия",
+      "image": "4168790_small.jpg",
+      "creation_year": "1877",
+      "dimensions_cm": "77,5х47,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "19.10.2017",
+        "auction_house": "Совком",
+        "estimate": "150 000 - 250 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "19.10.2017",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "15",
+          "estimate": "150 000 - 250 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Artist`s model and cat",
+      "image": "3997130_small.jpg",
+      "creation_year": "1868",
+      "dimensions_cm": "42х57",
+      "technique": "Бумага на доске; масло",
+      "latest_sale_details": {
+        "date": "06.06.2017",
+        "auction_house": "Sothebys",
+        "estimate": "18 000 - 25 000 GBP",
+        "sale_price": "45 182 USD"
+      },
+      "sales_history": [
+        {
+          "date": "06.06.2017",
+          "auction_house": "Sothebys London (GB)",
+          "lot": "25",
+          "estimate": "18 000 - 25 000 GBP",
+          "result": "35 000 GBP"
+        },
+        {
+          "date": "13.12.2016",
+          "auction_house": "Geneve Encheres Geneve (CH)",
+          "lot": "11",
+          "estimate": "2 000 - 3 000 CHF",
+          "result": "20 672 CHF"
+        }
+      ]
+    },
+    {
+      "title": "Крестный ход по случаю обретения чудотворного Образа Казанской Божьей Матери в 1579 г.",
+      "image": "3958090_small.jpg",
+      "creation_year": "1854",
+      "dimensions_cm": "17,7х34,6",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "26.04.2017",
+        "auction_house": "Аукционный дом Кабинет",
+        "estimate": "670 000 - 750 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "26.04.2017",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "70",
+          "estimate": "670 000 - 750 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Roman beggar",
+      "image": "3755690_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "126х98,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "30.11.2016",
+        "auction_house": "Bonhams",
+        "estimate": "35 000 - 55 000 GBP",
+        "sale_price": "54 740 USD"
+      },
+      "sales_history": [
+        {
+          "date": "30.11.2016",
+          "auction_house": "Bonhams London, New Bond Street",
+          "lot": "21",
+          "estimate": "35 000 - 55 000 GBP",
+          "result": "43 750 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Монах и нищенка",
+      "image": "3134570_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "46,5х37,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "08.11.2014",
+        "auction_house": "Hargesheimer &amp; Gunther",
+        "estimate": "2 000 - 2 000 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "08.11.2014",
+          "auction_house": "Hargesheimer &amp; Gunther Dusseldorf (DE)",
+          "lot": "287",
+          "estimate": "2 000 - 2 000 EUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "18.11.2011",
+          "auction_house": "Van Ham Cologne (DE)",
+          "lot": "217-",
+          "estimate": "18 000 - 20 000 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Улица в Атине",
+      "image": "2873530_small.jpg",
+      "creation_year": "1876",
+      "dimensions_cm": "72,5х44,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "12.12.2013",
+        "auction_house": "Дом антикварной книги \"В Никитском\"",
+        "estimate": "3 100 000 - 3 500 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "12.12.2013",
+          "auction_house": "Дом антикварной книги \"В Никитском\" Москва (RU)",
+          "lot": "2",
+          "estimate": "3 100 000 - 3 500 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Золотая свадьба. Эскиз к одноименной картине",
+      "image": "2613270_small.jpg",
+      "creation_year": "1870",
+      "dimensions_cm": "18,7х24,6",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "07.03.2013",
+        "auction_house": "Гелос",
+        "estimate": "600 000 - 1 000 000 RUR",
+        "sale_price": "450 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "07.03.2013",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "47",
+          "estimate": "600 000 - 1 000 000 RUR",
+          "result": "450 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Заброшенные. Ватикан и грех",
+      "image": "1826630_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "88х114",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "01.12.2010",
+        "auction_house": "Macdougall",
+        "estimate": "190 000 - 250 000 GBP",
+        "sale_price": "658 221 USD"
+      },
+      "sales_history": [
+        {
+          "date": "01.12.2010",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "394-",
+          "estimate": "190 000 - 250 000 GBP",
+          "result": "421 369 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Итальянский береговой пейзаж с двумя фигурами на переднем плане",
+      "image": "1763810_small.jpg",
+      "creation_year": "1894",
+      "dimensions_cm": "47,2х31,3",
+      "technique": "Металл; масло",
+      "latest_sale_details": {
+        "date": "17.09.2010",
+        "auction_house": "Koller Auctions",
+        "estimate": "20 000 - 30 000 CHF",
+        "sale_price": "21 390 USD"
+      },
+      "sales_history": [
+        {
+          "date": "17.09.2010",
+          "auction_house": "Koller Auctions Zurich (СH)",
+          "lot": "3211",
+          "estimate": "20 000 - 30 000 CHF",
+          "result": "21 600 CHF"
+        }
+      ]
+    },
+    {
+      "title": "Портрет итальянки",
+      "image": "1200940_small.jpg",
+      "creation_year": "1891",
+      "dimensions_cm": "19,5х15,8",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "04.12.2008",
+        "auction_house": "Uppsala Auktionskammare",
+        "estimate": "5 800 - 7 700 EUR",
+        "sale_price": "8 954 USD"
+      },
+      "sales_history": [
+        {
+          "date": "04.12.2008",
+          "auction_house": "Uppsala Auktionskammare Uppsala (SE)",
+          "lot": "847",
+          "estimate": "5 800 - 7 700 EUR",
+          "result": "74 000 SEK"
+        }
+      ]
+    },
+    {
+      "title": "Портрет",
+      "image": "1176020_small.jpg",
+      "creation_year": "1866",
+      "dimensions_cm": "16,5х22,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "25.11.2008",
+        "auction_house": "Bukowskis Auctions",
+        "estimate": "18 000 - 20 000 SEK",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "25.11.2008",
+          "auction_house": "Bukowskis Auctions Stockholm (SE)",
+          "lot": "1139A",
+          "estimate": "18 000 - 20 000 SEK",
+          "result": "Лот не продан"
+        }
+      ]
+    }
+  ]
+}

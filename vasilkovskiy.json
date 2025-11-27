@@ -1,0 +1,2327 @@
+{
+  "artist": "Васильковский Сергей Иванович",
+  "data_source": "ARTinvestment.RU",
+  "artworks": [
+    {
+      "title": "Турецкий баркас",
+      "image": "8192810_small.jpg",
+      "creation_year": "1898 - пер. пол. 1900-х",
+      "dimensions_cm": "33,5х26,5",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "08.06.2025",
+        "auction_house": "Московский Аукционный дом",
+        "estimate": "1 000 - 1 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "08.06.2025",
+          "auction_house": "Московский Аукционный дом Москва (RU)",
+          "lot": "37-",
+          "estimate": "1 000 - 1 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Сельский пейзаж",
+      "image": "8048270_small.jpg",
+      "creation_year": "Кон. XIX — нач. ХХ",
+      "dimensions_cm": "14х19",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "01.03.2025",
+        "auction_house": "Литфонд",
+        "estimate": "1 - 1 RUR",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "01.03.2025",
+          "auction_house": "Литфонд Москва (RU)",
+          "lot": "18-",
+          "estimate": "1 - 1 RUR",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "7947710_small.jpg",
+      "creation_year": "1910-е",
+      "dimensions_cm": "10х23",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "10.12.2024",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "62 000 - 75 000 RUR",
+        "sale_price": "62 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "10.12.2024",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "30",
+          "estimate": "62 000 - 75 000 RUR",
+          "result": "62 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "7865990_small.jpg",
+      "creation_year": "1910-е",
+      "dimensions_cm": "10х23",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "22.10.2024",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "63 000 - 75 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "22.10.2024",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "26",
+          "estimate": "63 000 - 75 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "7652130_small.jpg",
+      "creation_year": "1910-е",
+      "dimensions_cm": "10х23",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "19.03.2024",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "240 000 - 300 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "19.03.2024",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "16",
+          "estimate": "240 000 - 300 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "23.05.2009",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "23",
+          "estimate": "20 000 - 30 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Хутор в Малороссии",
+      "image": "7436210_small.jpg",
+      "creation_year": "1900-е-1 пол. 1910-х",
+      "dimensions_cm": "23,7х36",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "25.08.2023",
+        "auction_house": "AI Аукцион",
+        "estimate": "Нет данных",
+        "sale_price": "2 596 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "25.08.2023",
+          "auction_house": "AI Аукцион Москва (RU)",
+          "lot": "123550",
+          "estimate": "Нет данных",
+          "result": "2 596 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Kharkivshchyna",
+      "image": "7414350_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "19х29",
+      "technique": "Холст на доске; масло",
+      "latest_sale_details": {
+        "date": "15.06.2023",
+        "auction_house": "Shapiro Auctions",
+        "estimate": "4 000 - 6 000 USD",
+        "sale_price": "10 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.06.2023",
+          "auction_house": "Shapiro Auctions New York (US)",
+          "lot": "134",
+          "estimate": "4 000 - 6 000 USD",
+          "result": "10 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Пора сенокоса. Нормандия",
+      "image": "7169070_small.jpg",
+      "creation_year": "1880-е",
+      "dimensions_cm": "37х49",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.02.2023",
+        "auction_house": "Дом антикварной книги \"В Никитском\"",
+        "estimate": "700 000 - 700 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.02.2023",
+          "auction_house": "Дом антикварной книги \"В Никитском\" Москва (RU)",
+          "lot": "9",
+          "estimate": "700 000 - 700 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пора сенокоса. Нормандия",
+      "image": "7018470_small.jpg",
+      "creation_year": "1880-е",
+      "dimensions_cm": "37х49",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "19.10.2022",
+        "auction_house": "Дом антикварной книги \"В Никитском\"",
+        "estimate": "1 200 000 - 1 200 000 RUR",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "19.10.2022",
+          "auction_house": "Дом антикварной книги \"В Никитском\" Москва (RU)",
+          "lot": "9",
+          "estimate": "1 200 000 - 1 200 000 RUR",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Oskol",
+      "image": "6709150_small.jpg",
+      "creation_year": "1889",
+      "dimensions_cm": "21,4х39,9",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "11.02.2022",
+        "auction_house": "Art-Torg",
+        "estimate": "15 000 - 25 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "11.02.2022",
+          "auction_house": "Art-Torg Prague (CZ)",
+          "lot": "67",
+          "estimate": "15 000 - 25 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "The evening",
+      "image": "6709170_small.jpg",
+      "creation_year": "XIX",
+      "dimensions_cm": "21,4х39,9",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "11.02.2022",
+        "auction_house": "Art-Torg",
+        "estimate": "15 000 - 25 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "11.02.2022",
+          "auction_house": "Art-Torg Prague (CZ)",
+          "lot": "68",
+          "estimate": "15 000 - 25 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "In Maliy Danylivtsi",
+      "image": "6542410_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "24х32,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "04.12.2021",
+        "auction_house": "Shapiro Auctions",
+        "estimate": "8 000 - 12 000 USD",
+        "sale_price": "9 750 USD"
+      },
+      "sales_history": [
+        {
+          "date": "04.12.2021",
+          "auction_house": "Shapiro Auctions New York (US)",
+          "lot": "77",
+          "estimate": "8 000 - 12 000 USD",
+          "result": "9 750 USD"
+        }
+      ]
+    },
+    {
+      "title": "На реке Донце. Харьковщина",
+      "image": "6146990_small.jpg",
+      "creation_year": "1890-1900-е",
+      "dimensions_cm": "34х23,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "12.03.2021",
+        "auction_house": "AI Аукцион",
+        "estimate": "Нет данных",
+        "sale_price": "1 180 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "12.03.2021",
+          "auction_house": "AI Аукцион Москва (RU)",
+          "lot": "119041",
+          "estimate": "Нет данных",
+          "result": "1 180 000 RUR"
+        },
+        {
+          "date": "15.04.2017",
+          "auction_house": "Русская эмаль Москва (RU)",
+          "lot": "51",
+          "estimate": "202 000 - 222 000 RUR",
+          "result": "240 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Деревня в Малороссии",
+      "image": "6079750_small.jpg",
+      "creation_year": "1900-1910-е",
+      "dimensions_cm": "23,9х36,2",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "02.02.2021",
+        "auction_house": "Совком",
+        "estimate": "1 500 000 - 3 000 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "02.02.2021",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "23",
+          "estimate": "1 500 000 - 3 000 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Huntsmen and Hounds",
+      "image": "5975210_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "22,5х35,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "01.12.2020",
+        "auction_house": "Sothebys",
+        "estimate": "25 000 - 35 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "01.12.2020",
+          "auction_house": "Sothebys London",
+          "lot": "26-",
+          "estimate": "25 000 - 35 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "A Zaporozhian Cossack",
+      "image": "6708030_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "33,4х22,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "09.11.2020",
+        "auction_house": "Dorotheum",
+        "estimate": "8 000 - 12 000 EUR",
+        "sale_price": "11 420 USD"
+      },
+      "sales_history": [
+        {
+          "date": "09.11.2020",
+          "auction_house": "Dorotheum Vienna (AT)",
+          "lot": "636",
+          "estimate": "8 000 - 12 000 EUR",
+          "result": "10 400 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Казачья левада",
+      "image": "5938990_small.jpg",
+      "creation_year": "К. 1880-х-1893",
+      "dimensions_cm": "8х36",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "23.10.2020",
+        "auction_house": "AI Аукцион",
+        "estimate": "Нет данных",
+        "sale_price": "1 770 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "23.10.2020",
+          "auction_house": "AI Аукцион Москва (RU)",
+          "lot": "108427",
+          "estimate": "Нет данных",
+          "result": "1 770 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Хутор",
+      "image": "5860910_small.jpg",
+      "creation_year": "Конец XIX в.",
+      "dimensions_cm": "16,5х21,5",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "15.09.2020",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "10 000 - 13 000 RUR",
+        "sale_price": "100 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "15.09.2020",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "14",
+          "estimate": "10 000 - 13 000 RUR",
+          "result": "100 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Sunset over the Dniepr River",
+      "image": "4868350_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "13х14",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "07.07.2020",
+        "auction_house": "Hermitage Fine Art",
+        "estimate": "10 000 - 12 000 EUR",
+        "sale_price": "7 138 USD"
+      },
+      "sales_history": [
+        {
+          "date": "07.07.2020",
+          "auction_house": "Hermitage Fine Art Monaco (MC)",
+          "lot": "33-",
+          "estimate": "10 000 - 12 000 EUR",
+          "result": "6 500 EUR"
+        },
+        {
+          "date": "03.12.2018",
+          "auction_house": "Bruun Rasmussen Havnen (DK)",
+          "lot": "8787",
+          "estimate": "35 000 - 40 000 DKK",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "27.11.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "131-",
+          "estimate": "5 000 - 7 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "15.05.2013",
+          "auction_house": "Dobiaschofsky Auktionen Bern (CH)",
+          "lot": "455",
+          "estimate": "4 500 - 4 500 CHF",
+          "result": "6 000 CHF"
+        }
+      ]
+    },
+    {
+      "title": "Весна на хуторе",
+      "image": "5527890_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "15х21,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "28.02.2020",
+        "auction_house": "Совком",
+        "estimate": "5 000 - 10 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "28.02.2020",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "20",
+          "estimate": "5 000 - 10 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Полковник реестровых малороссийских полков (Из украинской старины)",
+      "image": "5060870_small.jpg",
+      "creation_year": "1900-е-нач. 1910-х",
+      "dimensions_cm": "33х24,5",
+      "technique": "Клеенка; масло",
+      "latest_sale_details": {
+        "date": "16.05.2019",
+        "auction_house": "Литфонд",
+        "estimate": "1 - 1 RUR",
+        "sale_price": "500 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "16.05.2019",
+          "auction_house": "Литфонд Москва (RU)",
+          "lot": "12",
+          "estimate": "1 - 1 RUR",
+          "result": "500 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Днепровская плавня. Екатеринославская губерния",
+      "image": "5019490_small.jpeg",
+      "creation_year": "1900-е",
+      "dimensions_cm": "10х16",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "13.04.2019",
+        "auction_house": "Литфонд",
+        "estimate": "1 - 1 RUR",
+        "sale_price": "280 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "13.04.2019",
+          "auction_house": "Литфонд Москва (RU)",
+          "lot": "27а",
+          "estimate": "1 - 1 RUR",
+          "result": "280 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian Churches in Eastern Galicia",
+      "image": "4772690_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "24х36,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "27.11.2018",
+        "auction_house": "Sothebys",
+        "estimate": "6 000 - 8 000 GBP",
+        "sale_price": "47 753 USD"
+      },
+      "sales_history": [
+        {
+          "date": "27.11.2018",
+          "auction_house": "Sothebys London",
+          "lot": "56",
+          "estimate": "6 000 - 8 000 GBP",
+          "result": "37 500 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Vasilkovsky Resting with Kossacks",
+      "image": "4728890_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "22,8х13,4",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "13.10.2018",
+        "auction_house": "Trinity",
+        "estimate": "3 000 - 5 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "13.10.2018",
+          "auction_house": "Trinity Avon, Ct (US)",
+          "lot": "117",
+          "estimate": "3 000 - 5 000 USD",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "20.05.2017",
+          "auction_house": "Trinity Avon, Ct (US)",
+          "lot": "43",
+          "estimate": "4 000 - 8 000 USD",
+          "result": "Нет данных"
+        },
+        {
+          "date": "15.10.2016",
+          "auction_house": "Trinity Fine Arts Avon, Ct (US)",
+          "lot": "52",
+          "estimate": "10 000 - 20 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Winter landscape",
+      "image": "4712210_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "10х15",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "01.09.2018",
+        "auction_house": "Art-Torg",
+        "estimate": "4 000 - 6 000 USD",
+        "sale_price": "2 500 USD"
+      },
+      "sales_history": [
+        {
+          "date": "01.09.2018",
+          "auction_house": "Art-Torg Prague (CZ)",
+          "lot": "21",
+          "estimate": "4 000 - 6 000 USD",
+          "result": "2 500 USD"
+        }
+      ]
+    },
+    {
+      "title": "Pflügender Bauer",
+      "image": "4428050_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "24х37",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "03.03.2018",
+        "auction_house": "Auktionshaus Wendl",
+        "estimate": "Нет данных",
+        "sale_price": "23 402 USD"
+      },
+      "sales_history": [
+        {
+          "date": "03.03.2018",
+          "auction_house": "Auktionshaus Wendl Rudolstadt (DE)",
+          "lot": "4497",
+          "estimate": "Нет данных",
+          "result": "19 000 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Bivouac at the foot of mount Elbrus",
+      "image": "3997250_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "23,5х36",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "06.06.2017",
+        "auction_house": "Sothebys",
+        "estimate": "4 000 - 6 000 GBP",
+        "sale_price": "6 455 USD"
+      },
+      "sales_history": [
+        {
+          "date": "06.06.2017",
+          "auction_house": "Sothebys London (GB)",
+          "lot": "28",
+          "estimate": "4 000 - 6 000 GBP",
+          "result": "5 000 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Похищение Елены",
+      "image": "3939930_small.jpg",
+      "creation_year": "1887",
+      "dimensions_cm": "132х231",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "07.04.2017",
+        "auction_house": "Leclere - Maison de Ventes",
+        "estimate": "60 000 - 80 000 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "07.04.2017",
+          "auction_house": "Leclere - Maison de Ventes Paris (FR)",
+          "lot": "6",
+          "estimate": "60 000 - 80 000 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Summer Landscape",
+      "image": "3766370_small.jpg",
+      "creation_year": "1885",
+      "dimensions_cm": "11х18,5",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "30.11.2016",
+        "auction_house": "MacDougall",
+        "estimate": "2 000 - 3 000 GBP",
+        "sale_price": "4 880 USD"
+      },
+      "sales_history": [
+        {
+          "date": "30.11.2016",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "43",
+          "estimate": "2 000 - 3 000 GBP",
+          "result": "3 900 GBP"
+        },
+        {
+          "date": "03.06.2015",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "63",
+          "estimate": "5 000 - 7 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "62-",
+          "estimate": "5 000 - 7 000 GBP",
+          "result": "8 775 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Winter Study",
+      "image": "3766390_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "13,5х24,5",
+      "technique": "Холст на картоне; масло",
+      "latest_sale_details": {
+        "date": "30.11.2016",
+        "auction_house": "MacDougall",
+        "estimate": "2 000 - 3 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "30.11.2016",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "44-",
+          "estimate": "2 000 - 3 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "02.12.2015",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "21",
+          "estimate": "2 000 - 3 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "15-",
+          "estimate": "3 000 - 5 000 GBP",
+          "result": "4 050 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian Hut on a Hill",
+      "image": "3766410_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "14х24",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "30.11.2016",
+        "auction_house": "MacDougall",
+        "estimate": "2 000 - 3 000 GBP",
+        "sale_price": "6 506 USD"
+      },
+      "sales_history": [
+        {
+          "date": "30.11.2016",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "45",
+          "estimate": "2 000 - 3 000 GBP",
+          "result": "5 200 GBP"
+        },
+        {
+          "date": "02.12.2015",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "22",
+          "estimate": "3 000 - 4 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "17-",
+          "estimate": "6 000 - 9 000 GBP",
+          "result": "9 450 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Winter Village at Sunset",
+      "image": "3766430_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "6,5х10",
+      "technique": "Бумага на доске; масло",
+      "latest_sale_details": {
+        "date": "30.11.2016",
+        "auction_house": "MacDougall",
+        "estimate": "1 500 - 2 000 GBP",
+        "sale_price": "2 440 USD"
+      },
+      "sales_history": [
+        {
+          "date": "30.11.2016",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "46",
+          "estimate": "1 500 - 2 000 GBP",
+          "result": "1 950 GBP"
+        },
+        {
+          "date": "02.12.2015",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "23",
+          "estimate": "2 000 - 3 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "6-",
+          "estimate": "3 000 - 5 000 GBP",
+          "result": "4 050 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Украинская девушка",
+      "image": "3690490_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "61х47",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "17.09.2016",
+        "auction_house": "Shapiro Auctions",
+        "estimate": "6 000 - 8 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "17.09.2016",
+          "auction_house": "Shapiro Auctions New York, NY (US)",
+          "lot": "147",
+          "estimate": "6 000 - 8 000 USD",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "21.11.2012",
+          "auction_house": "Galerie Fischer Auktionen Luzern (CH)",
+          "lot": "1182",
+          "estimate": "8 000 - 12 000 CHF",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "15.06.2011",
+          "auction_house": "Galerie Fischer Auktionen Luzern (CH)",
+          "lot": "2023",
+          "estimate": "8 000 - 12 000 CHF",
+          "result": "16 000 CHF"
+        }
+      ]
+    },
+    {
+      "title": "Хатки у речки",
+      "image": "3608410_small.jpg",
+      "creation_year": "1890-е",
+      "dimensions_cm": "18,7х54,4",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "27.05.2016",
+        "auction_house": "AI Аукцион",
+        "estimate": "Нет данных",
+        "sale_price": "500 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "27.05.2016",
+          "auction_house": "AI Аукцион Москва (RU)",
+          "lot": "102668",
+          "estimate": "Нет данных",
+          "result": "500 000 RUR"
+        },
+        {
+          "date": "24.10.2013",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "103-",
+          "estimate": "1 100 000 - 2 000 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Le chasseur",
+      "image": "3345490_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "16,5х25,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "03.07.2015",
+        "auction_house": "Vincent Wapler - SVV MICA",
+        "estimate": "3 000 - 5 000 EUR",
+        "sale_price": "4 220 USD"
+      },
+      "sales_history": [
+        {
+          "date": "03.07.2015",
+          "auction_house": "Vincent Wapler - SVV MICA Paris (FR)",
+          "lot": "173",
+          "estimate": "3 000 - 5 000 EUR",
+          "result": "3 800 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Pasture",
+      "image": "3296010_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "10,5х17",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "03.06.2015",
+        "auction_house": "MacDougall",
+        "estimate": "4 000 - 6 000 GBP",
+        "sale_price": "7 177 USD"
+      },
+      "sales_history": [
+        {
+          "date": "03.06.2015",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "45",
+          "estimate": "4 000 - 6 000 GBP",
+          "result": "4 680 GBP"
+        },
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "14-",
+          "estimate": "2 000 - 3 000 GBP",
+          "result": "14 850 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Village Mill",
+      "image": "3296030_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "18х14",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "03.06.2015",
+        "auction_house": "MacDougall",
+        "estimate": "7 000 - 9 000 GBP",
+        "sale_price": "12 959 USD"
+      },
+      "sales_history": [
+        {
+          "date": "03.06.2015",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "46",
+          "estimate": "7 000 - 9 000 GBP",
+          "result": "8 450 GBP"
+        },
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "7-",
+          "estimate": "7 000 - 9 000 GBP",
+          "result": "12 150 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian Hut on a Sunny Day",
+      "image": "3296450_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "16,5х32,5",
+      "technique": "Холст на доске; масло",
+      "latest_sale_details": {
+        "date": "03.06.2015",
+        "auction_house": "MacDougall",
+        "estimate": "6 000 - 9 000 GBP",
+        "sale_price": "10 965 USD"
+      },
+      "sales_history": [
+        {
+          "date": "03.06.2015",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "64",
+          "estimate": "6 000 - 9 000 GBP",
+          "result": "7 150 GBP"
+        },
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "59-",
+          "estimate": "6 000 - 9 000 GBP",
+          "result": "8 775 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Landscape with a hut",
+      "image": "3138210_small.jpg",
+      "creation_year": "1890",
+      "dimensions_cm": "22х33",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "26.11.2014",
+        "auction_house": "Bonhams",
+        "estimate": "10 000 - 12 000 GBP",
+        "sale_price": "17 768 USD"
+      },
+      "sales_history": [
+        {
+          "date": "26.11.2014",
+          "auction_house": "Bonhams London, New Bond Street",
+          "lot": "5",
+          "estimate": "10 000 - 12 000 GBP",
+          "result": "11 250 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Днепровская плавня. Екатеринославская губерния",
+      "image": "3104170_small.jpg",
+      "creation_year": "1900-е",
+      "dimensions_cm": "10,7х16,2",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "02.10.2014",
+        "auction_house": "Дом антикварной книги \"В Никитском\"",
+        "estimate": "75 000 - 76 000 RUR",
+        "sale_price": "75 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "02.10.2014",
+          "auction_house": "Дом антикварной книги \"В Никитском\" Москва (RU)",
+          "lot": "29",
+          "estimate": "75 000 - 76 000 RUR",
+          "result": "75 000 RUR"
+        },
+        {
+          "date": "03.10.2013",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "33",
+          "estimate": "300 000 - 350 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "На берегу Днепра",
+      "image": "3005170_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "36,5х54",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "03.06.2014",
+        "auction_house": "Sothebys",
+        "estimate": "25 000 - 35 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "03.06.2014",
+          "auction_house": "Sothebys London",
+          "lot": "126-",
+          "estimate": "25 000 - 35 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Untitled",
+      "image": "2937730_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "23,8х36,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "29.03.2014",
+        "auction_house": "Shapiro Auctions",
+        "estimate": "15 000 - 20 000 USD",
+        "sale_price": "19 200 USD"
+      },
+      "sales_history": [
+        {
+          "date": "29.03.2014",
+          "auction_house": "Shapiro Auctions New York, NY (US)",
+          "lot": "70",
+          "estimate": "15 000 - 20 000 USD",
+          "result": "19 200 USD"
+        }
+      ]
+    },
+    {
+      "title": "Landscape with windmills and horse drawn cart",
+      "image": "2937750_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "23,5х35,2",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "29.03.2014",
+        "auction_house": "Shapiro Auctions",
+        "estimate": "15 000 - 20 000 USD",
+        "sale_price": "18 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "29.03.2014",
+          "auction_house": "Shapiro Auctions New York, NY (US)",
+          "lot": "71",
+          "estimate": "15 000 - 20 000 USD",
+          "result": "18 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Вечер над рекой",
+      "image": "2889190_small.jpg",
+      "creation_year": "посл.четв. XIX",
+      "dimensions_cm": "26,5х22",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "21.12.2013",
+        "auction_house": "Корнерс",
+        "estimate": "550 000 - 650 000 UAH",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "21.12.2013",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "30",
+          "estimate": "550 000 - 650 000 UAH",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "4-",
+          "estimate": "8 000 - 12 000 GBP",
+          "result": "24 300 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Hunters at Rest",
+      "image": "2841750_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "16,5х33",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "27.11.2013",
+        "auction_house": "Macdougall",
+        "estimate": "35 000 - 50 000 GBP",
+        "sale_price": "109 830 USD"
+      },
+      "sales_history": [
+        {
+          "date": "27.11.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "3-",
+          "estimate": "35 000 - 50 000 GBP",
+          "result": "67 480 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Straniki Outside the Monastery Walls",
+      "image": "2818490_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "28,5х38,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "19.11.2013",
+        "auction_house": "Jacksons",
+        "estimate": "8 000 - 10 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "19.11.2013",
+          "auction_house": "Jacksons Cedar Falls, IA (US)",
+          "lot": "57",
+          "estimate": "8 000 - 10 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Южный пейзаж",
+      "image": "2807370_small.jpg",
+      "creation_year": "1898",
+      "dimensions_cm": "26х34,8",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "31.10.2013",
+        "auction_house": "Магнум Арс",
+        "estimate": "32 000 - 40 000 USD",
+        "sale_price": "33 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "31.10.2013",
+          "auction_house": "Магнум Арс Москва (RU)",
+          "lot": "38-",
+          "estimate": "32 000 - 40 000 USD",
+          "result": "33 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Hut in Oposhnya, Ukraine",
+      "image": "2670210_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "23,5х35,5",
+      "technique": "Холст на доске; масло",
+      "latest_sale_details": {
+        "date": "05.06.2013",
+        "auction_house": "Macdougall",
+        "estimate": "12 000 - 18 000 GBP",
+        "sale_price": "22 869 USD"
+      },
+      "sales_history": [
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "3-",
+          "estimate": "12 000 - 18 000 GBP",
+          "result": "14 850 GBP"
+        }
+      ]
+    },
+    {
+      "title": "View of a Church on a Sunny Day",
+      "image": "2670750_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "16х11,5",
+      "technique": "Картон на доске; масло",
+      "latest_sale_details": {
+        "date": "05.06.2013",
+        "auction_house": "Macdougall",
+        "estimate": "4 000 - 6 000 GBP",
+        "sale_price": "8 316 USD"
+      },
+      "sales_history": [
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "8-",
+          "estimate": "4 000 - 6 000 GBP",
+          "result": "5 400 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Ukrainian Village in Winter",
+      "image": "2671170_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "23,5х36",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "05.06.2013",
+        "auction_house": "Macdougall",
+        "estimate": "10 000 - 15 000 GBP",
+        "sale_price": "18 711 USD"
+      },
+      "sales_history": [
+        {
+          "date": "05.06.2013",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "16-",
+          "estimate": "10 000 - 15 000 GBP",
+          "result": "12 150 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Парусники",
+      "image": "2624930_small.jpg",
+      "creation_year": "1880-е",
+      "dimensions_cm": "23х36,5",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "13.04.2013",
+        "auction_house": "Корнерс",
+        "estimate": "1 200 000 - 1 500 000 UAH",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "13.04.2013",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "18",
+          "estimate": "1 200 000 - 1 500 000 UAH",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Охотничья сцена",
+      "image": "2508510_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "55х74",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "25.11.2012",
+        "auction_house": "Macdougall",
+        "estimate": "60 000 - 90 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "25.11.2012",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "111-",
+          "estimate": "60 000 - 90 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "30.03.2012",
+          "auction_house": "Koller Auctions Zurich (СH)",
+          "lot": "3245",
+          "estimate": "35 000 - 45 000 CHF",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "02.04.2010",
+          "auction_house": "Aguttes Paris",
+          "lot": "8-",
+          "estimate": "30 000 - 40 000 EUR",
+          "result": "37 714 EUR"
+        },
+        {
+          "date": "16.12.2009",
+          "auction_house": "Aguttes Paris (FR)",
+          "lot": "92-",
+          "estimate": "30 000 - 40 000 EUR",
+          "result": "149 242 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Праздник в слободе",
+      "image": "2504730_small.jpg",
+      "creation_year": "1890-1900-е",
+      "dimensions_cm": "23,7х35,5",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "23.11.2012",
+        "auction_house": "Русские сезоны",
+        "estimate": "1 869 000 - 2 180 500 RUR",
+        "sale_price": "3 105 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "23.11.2012",
+          "auction_house": "Русские сезоны Санкт-Петербург (RU)",
+          "lot": "41",
+          "estimate": "1 869 000 - 2 180 500 RUR",
+          "result": "3 105 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Окрестности Ай-Тодора. Крым",
+      "image": "2454790_small.jpg",
+      "creation_year": "1890",
+      "dimensions_cm": "24х36",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "22.09.2012",
+        "auction_house": "Корнерс",
+        "estimate": "150 000 - 180 000 USD",
+        "sale_price": "140 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "22.09.2012",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "30",
+          "estimate": "150 000 - 180 000 USD",
+          "result": "140 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Закат в деревне",
+      "image": "2434510_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "32х58",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "12.06.2012",
+        "auction_house": "Uppsala Auktionskammare",
+        "estimate": "250 000 - 300 000 SEK",
+        "sale_price": "65 044 USD"
+      },
+      "sales_history": [
+        {
+          "date": "12.06.2012",
+          "auction_house": "Uppsala Auktionskammare Uppsala (SE)",
+          "lot": "21-",
+          "estimate": "250 000 - 300 000 SEK",
+          "result": "460 000 SEK"
+        }
+      ]
+    },
+    {
+      "title": "Гора Бештау",
+      "image": "2366550_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "23,5х36",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "31.05.2012",
+        "auction_house": "Bukowskis Auctions",
+        "estimate": "6 000 - 8 000 EUR",
+        "sale_price": "71 711 USD"
+      },
+      "sales_history": [
+        {
+          "date": "31.05.2012",
+          "auction_house": "Bukowskis Auctions Helsinki (FI)",
+          "lot": "343",
+          "estimate": "6 000 - 8 000 EUR",
+          "result": "58 000 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Зимний вечер",
+      "image": "2213330_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "13х24,2",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "17.03.2012",
+        "auction_house": "Аукционный дом Кабинет",
+        "estimate": "290 000 - 350 000 RUR",
+        "sale_price": "400 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "17.03.2012",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "6",
+          "estimate": "290 000 - 350 000 RUR",
+          "result": "400 000 RUR"
+        },
+        {
+          "date": "17.11.2011",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "50",
+          "estimate": "800 000 - 1 000 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "26.02.2011",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "168",
+          "estimate": "280 000 - 360 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Деркачи",
+      "image": "2213350_small.jpeg",
+      "creation_year": "1873",
+      "dimensions_cm": "13,5х24,9",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "17.03.2012",
+        "auction_house": "Аукционный дом Кабинет",
+        "estimate": "330 000 - 370 000 RUR",
+        "sale_price": "370 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "17.03.2012",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "7",
+          "estimate": "330 000 - 370 000 RUR",
+          "result": "370 000 RUR"
+        },
+        {
+          "date": "17.11.2011",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "50",
+          "estimate": "800 000 - 1 000 000 RUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "26.02.2011",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "169",
+          "estimate": "280 000 - 3 650 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Дупелиное болото",
+      "image": "2201550_small.jpg",
+      "creation_year": "начало ХХ в.",
+      "dimensions_cm": "23,5х36,5",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "17.12.2011",
+        "auction_house": "Корнерс",
+        "estimate": "120 000 - 150 000 USD",
+        "sale_price": "100 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "17.12.2011",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "20",
+          "estimate": "120 000 - 150 000 USD",
+          "result": "100 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Казак с ружьем на плече",
+      "image": "2150370_small.jpg",
+      "creation_year": "конец XIX в.",
+      "dimensions_cm": "33х24,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "13.11.2011",
+        "auction_house": "Русские сезоны",
+        "estimate": "72 000 - 80 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "13.11.2011",
+          "auction_house": "Русские сезоны Санкт-Петербург (RU)",
+          "lot": "48",
+          "estimate": "72 000 - 80 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пушкарь",
+      "image": "2150390_small.jpg",
+      "creation_year": "конец XIX в.",
+      "dimensions_cm": "33х25,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "13.11.2011",
+        "auction_house": "Русские сезоны",
+        "estimate": "72 000 - 80 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "13.11.2011",
+          "auction_house": "Русские сезоны Санкт-Петербург (RU)",
+          "lot": "49",
+          "estimate": "72 000 - 80 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Геленджик",
+      "image": "2102090_small.jpg",
+      "creation_year": "к. 1880-х",
+      "dimensions_cm": "23,5х36,5",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "24.09.2011",
+        "auction_house": "Корнерс",
+        "estimate": "130 000 - 160 000 USD",
+        "sale_price": "110 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "24.09.2011",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "26",
+          "estimate": "130 000 - 160 000 USD",
+          "result": "110 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Весна на Днепре",
+      "image": "1997670_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "22х45",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "25.05.2011",
+        "auction_house": "Stockholms Auktionsverk",
+        "estimate": "17 000 - 22 600 EUR",
+        "sale_price": "82 108 USD"
+      },
+      "sales_history": [
+        {
+          "date": "25.05.2011",
+          "auction_house": "Stockholms Auktionsverk Stockholm (SE)",
+          "lot": "2721",
+          "estimate": "17 000 - 22 600 EUR",
+          "result": "520 000 SEK"
+        }
+      ]
+    },
+    {
+      "title": "Хорунжий",
+      "image": "1927690_small.jpg",
+      "creation_year": "конец XIX в.",
+      "dimensions_cm": "32,5х24",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "12.03.2011",
+        "auction_house": "Корнерс",
+        "estimate": "55 000 - 70 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "12.03.2011",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "26",
+          "estimate": "55 000 - 70 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Украина. Летний пейзаж",
+      "image": "1646640_small.jpg",
+      "creation_year": "1890-е гг",
+      "dimensions_cm": "39,5х51,5",
+      "technique": "Холст на фанере; масло",
+      "latest_sale_details": {
+        "date": "18.05.2010",
+        "auction_house": "Совком",
+        "estimate": "2 100 000 - 3 000 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "18.05.2010",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "11-",
+          "estimate": "2 100 000 - 3 000 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Гайдамак (Отдыхающий казак с конем)",
+      "image": "1474440_small.jpg",
+      "creation_year": "1908",
+      "dimensions_cm": "24х36",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "18.09.2009",
+        "auction_house": "Koller Auctions",
+        "estimate": "30 000 - 40 000 CHF",
+        "sale_price": "33 992 USD"
+      },
+      "sales_history": [
+        {
+          "date": "18.09.2009",
+          "auction_house": "Koller Auctions Zurich (СH)",
+          "lot": "3218",
+          "estimate": "30 000 - 40 000 CHF",
+          "result": "35 000 CHF"
+        }
+      ]
+    },
+    {
+      "title": "Портрет В.С. Захарченко",
+      "image": "1385640_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "34х23,8",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "08.06.2009",
+        "auction_house": "Bonhams",
+        "estimate": "25 000 - 35 000 GBP",
+        "sale_price": "48 201 USD"
+      },
+      "sales_history": [
+        {
+          "date": "08.06.2009",
+          "auction_house": "Bonhams London, New Bond Street",
+          "lot": "8",
+          "estimate": "25 000 - 35 000 GBP",
+          "result": "30 000 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Пахота в Харьковской губернии, Украина",
+      "image": "1597120_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "24х36",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "16.05.2009",
+        "auction_house": "Hôtel des ventes Nice Riviéra",
+        "estimate": "10 000 - 15 000 EUR",
+        "sale_price": "47 236 USD"
+      },
+      "sales_history": [
+        {
+          "date": "16.05.2009",
+          "auction_house": "Hôtel des ventes Nice Riviéra Paris",
+          "lot": "187-",
+          "estimate": "10 000 - 15 000 EUR",
+          "result": "35 000 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Окраины Киева",
+      "image": "1087960_small.jpg",
+      "creation_year": "кон. ХІХ – нач. ХХ вв.",
+      "dimensions_cm": "16,5х10,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "04.10.2008",
+        "auction_house": "Корнерс",
+        "estimate": "30 000 - 40 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "04.10.2008",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "40",
+          "estimate": "30 000 - 40 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пейзаж",
+      "image": "8c225bc5946d31b33043c5cee8061c09_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "65х41",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "30.04.2008",
+        "auction_house": "Damien Leclere",
+        "estimate": "2 000 - 2 500 EUR",
+        "sale_price": "4 685 USD"
+      },
+      "sales_history": [
+        {
+          "date": "30.04.2008",
+          "auction_house": "Damien Leclere Marseille (FR)",
+          "lot": "143-",
+          "estimate": "2 000 - 2 500 EUR",
+          "result": "3 000 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Украинская церковь",
+      "image": "1261020_small.jpg",
+      "creation_year": "н. ХХ",
+      "dimensions_cm": "24х35,7",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "22.09.2007",
+        "auction_house": "Корнерс",
+        "estimate": "100 000 - 120 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "22.09.2007",
+          "auction_house": "Корнерс Киев (UA)",
+          "lot": "22",
+          "estimate": "100 000 - 120 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Летний день",
+      "image": "157cc219a89b13eefc853f4229f27011_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "12х36",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "15.06.2007",
+        "auction_house": "Macdougall",
+        "estimate": "10 000 - 15 000 GBP",
+        "sale_price": "24 110 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.06.2007",
+          "auction_house": "Macdougall London (GB)",
+          "lot": "26-",
+          "estimate": "10 000 - 15 000 GBP",
+          "result": "12 208 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Деревенская дорога",
+      "image": "168400_small.jpeg",
+      "creation_year": "1886",
+      "dimensions_cm": "22,9х35",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "18.04.2007",
+        "auction_house": "Christies",
+        "estimate": "8 000 - 12 000 USD",
+        "sale_price": "84 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "18.04.2007",
+          "auction_house": "Christies New York, Rockefeller Plaza",
+          "lot": "23-",
+          "estimate": "8 000 - 12 000 USD",
+          "result": "84 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Ильинская церковь у Чернигова",
+      "image": "06157b532e497477e7e06006f37dc370_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "23,5х35,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "31.05.2006",
+        "auction_house": "Sothebys",
+        "estimate": "15 000 - 20 000 GBP",
+        "sale_price": "65 083 USD"
+      },
+      "sales_history": [
+        {
+          "date": "31.05.2006",
+          "auction_house": "Sothebys London",
+          "lot": "49-",
+          "estimate": "15 000 - 20 000 GBP",
+          "result": "34 800 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Мельница",
+      "image": "7173d03584cd31b492cfe4efa80c7aa5_small.jpg",
+      "creation_year": "Последняя треть XIX в.",
+      "dimensions_cm": "68,8х54,7",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "22.04.2006",
+        "auction_house": "Совком",
+        "estimate": "22 000 - 23 000 USD",
+        "sale_price": "22 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "22.04.2006",
+          "auction_house": "Совком Москва (RU)",
+          "lot": "3-",
+          "estimate": "22 000 - 23 000 USD",
+          "result": "22 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Старая деревушка под снегом",
+      "image": "a91491d95385a68ac5d70374a285058e_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "41х50",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "28.11.2005",
+        "auction_house": "Bonhams",
+        "estimate": "5 000 - 7 000 GBP",
+        "sale_price": "20 772 USD"
+      },
+      "sales_history": [
+        {
+          "date": "28.11.2005",
+          "auction_house": "Bonhams London (GB)",
+          "lot": "59-",
+          "estimate": "5 000 - 7 000 GBP",
+          "result": "12 000 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Пастбище в Ливадии, Украина",
+      "image": "58f650f68cae0190a3703f8a77ca008a_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "34,5х26,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "20.05.2005",
+        "auction_house": "Sothebys",
+        "estimate": "4 000 - 6 000 GBP",
+        "sale_price": "37 267 USD"
+      },
+      "sales_history": [
+        {
+          "date": "20.05.2005",
+          "auction_house": "Sothebys London",
+          "lot": "29-",
+          "estimate": "4 000 - 6 000 GBP",
+          "result": "20 400 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Деревушка в украинской степи",
+      "image": "3fc30109e361e486af760f175c4729d2_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "33х44",
+      "technique": "Холст на доске; масло",
+      "latest_sale_details": {
+        "date": "19.05.2005",
+        "auction_house": "Sothebys",
+        "estimate": "5 000 - 7 000 GBP",
+        "sale_price": "46 204 USD"
+      },
+      "sales_history": [
+        {
+          "date": "19.05.2005",
+          "auction_house": "Sothebys London",
+          "lot": "54-",
+          "estimate": "5 000 - 7 000 GBP",
+          "result": "25 200 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Уличная сцена",
+      "image": "c60bd143bcc95019a7fdb0f8001c56a8_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "13х23",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "02.12.2004",
+        "auction_house": "Sothebys",
+        "estimate": "4 000 - 6 000 GBP",
+        "sale_price": "5 773 USD"
+      },
+      "sales_history": [
+        {
+          "date": "02.12.2004",
+          "auction_house": "Sothebys London",
+          "lot": "50-",
+          "estimate": "4 000 - 6 000 GBP",
+          "result": "3 000 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Хижина в деревне Опишни",
+      "image": "",
+      "creation_year": "1900",
+      "dimensions_cm": "31,8х41",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "06.12.2003",
+        "auction_house": "Antique Centre Alex Brey",
+        "estimate": "16 000 - 24 000 USD",
+        "sale_price": "30 000 USD"
+      },
+      "sales_history": [
+        {
+          "date": "06.12.2003",
+          "auction_house": "Antique Centre Alex Brey Киев (UA)",
+          "lot": "11-",
+          "estimate": "16 000 - 24 000 USD",
+          "result": "30 000 USD"
+        }
+      ]
+    },
+    {
+      "title": "Светогорский монастырь",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "24х36",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "10.05.2003",
+        "auction_house": "Bukowskis Auctions",
+        "estimate": "5 500 - 6 000 EUR",
+        "sale_price": "13 784 USD"
+      },
+      "sales_history": [
+        {
+          "date": "10.05.2003",
+          "auction_house": "Bukowskis Auctions Helsinki (FI)",
+          "lot": "377-",
+          "estimate": "5 500 - 6 000 EUR",
+          "result": "12 000 EUR"
+        },
+        {
+          "date": "26.04.2000",
+          "auction_house": "Dorotheum Wien (AT)",
+          "lot": "58-",
+          "estimate": "5 500 - 6 000 EUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "25.09.1993",
+          "auction_house": "Alfa Art Москва (RU)",
+          "lot": "30-",
+          "estimate": "5 500 - 6 000 EUR",
+          "result": "1 020 USD"
+        }
+      ]
+    },
+    {
+      "title": "Заход солнца на реке",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "21х27",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "14.04.2002",
+        "auction_house": "Eric Pillon Enchères",
+        "estimate": "Нет данных",
+        "sale_price": "2 656 USD"
+      },
+      "sales_history": [
+        {
+          "date": "14.04.2002",
+          "auction_house": "Eric Pillon Enchères Calais (FR)",
+          "lot": "34-",
+          "estimate": "Нет данных",
+          "result": "3 000 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Скалы на море",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "10х15",
+      "technique": "Бумага на картоне; масло",
+      "latest_sale_details": {
+        "date": "24.10.2001",
+        "auction_house": "Weiner",
+        "estimate": "1 200 - 1 200 DEM",
+        "sale_price": "453 USD"
+      },
+      "sales_history": [
+        {
+          "date": "24.10.2001",
+          "auction_house": "Weiner Munich (DE)",
+          "lot": "78-",
+          "estimate": "1 200 - 1 200 DEM",
+          "result": "1 080 DEM"
+        }
+      ]
+    },
+    {
+      "title": "Монастырь",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "24х35,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "13.05.2000",
+        "auction_house": "Hagelstam &amp; Co",
+        "estimate": "14 000 - 14 000 FIM",
+        "sale_price": "5 523 USD"
+      },
+      "sales_history": [
+        {
+          "date": "13.05.2000",
+          "auction_house": "Hagelstam &amp; Co Helsinki (FI)",
+          "lot": "190-",
+          "estimate": "14 000 - 14 000 FIM",
+          "result": "34 800 FIM"
+        }
+      ]
+    },
+    {
+      "title": "Украинская деревня под Полтавой",
+      "image": "cea979e1d424a1309d907c9825b5e3cd_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "23,5х36",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "18.11.1999",
+        "auction_house": "Sothebys",
+        "estimate": "1 500 - 1 800 GBP",
+        "sale_price": "3 323 USD"
+      },
+      "sales_history": [
+        {
+          "date": "18.11.1999",
+          "auction_house": "Sothebys London",
+          "lot": "39-",
+          "estimate": "1 500 - 1 800 GBP",
+          "result": "2 040 GBP"
+        },
+        {
+          "date": "16.06.1992",
+          "auction_house": "Sothebys London",
+          "lot": "22-",
+          "estimate": "1 500 - 1 800 GBP",
+          "result": "1 440 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Деревенская жизнь",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "23х36",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "28.11.1998",
+        "auction_house": "Bukowskis Auctions",
+        "estimate": "12 000 - 12 000 FIM",
+        "sale_price": "2 476 USD"
+      },
+      "sales_history": [
+        {
+          "date": "28.11.1998",
+          "auction_house": "Bukowskis Auctions Helsinki (FI)",
+          "lot": "211-",
+          "estimate": "12 000 - 12 000 FIM",
+          "result": "15 600 FIM"
+        }
+      ]
+    },
+    {
+      "title": "Утиная охота",
+      "image": "",
+      "creation_year": "1881",
+      "dimensions_cm": "34х46,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "19.02.1998",
+        "auction_house": "Sothebys",
+        "estimate": "1 200 - 1 400 GBP",
+        "sale_price": "8 002 USD"
+      },
+      "sales_history": [
+        {
+          "date": "19.02.1998",
+          "auction_house": "Sothebys London",
+          "lot": "54-",
+          "estimate": "1 200 - 1 400 GBP",
+          "result": "4 800 GBP"
+        }
+      ]
+    },
+    {
+      "title": "На болоте",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "33х40,6",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "15.01.1998",
+        "auction_house": "Mystic Fine Arts",
+        "estimate": "1 500 - 2 500 USD",
+        "sale_price": "4 320 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.01.1998",
+          "auction_house": "Mystic Fine Arts Mystic, CT (US)",
+          "lot": "162-",
+          "estimate": "1 500 - 2 500 USD",
+          "result": "4 320 USD"
+        }
+      ]
+    },
+    {
+      "title": "Журавли на болоте. Закат",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "33х41",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "25.11.1997",
+        "auction_house": "Christies",
+        "estimate": "2 000 - 3 000 USD",
+        "sale_price": "1 200 USD"
+      },
+      "sales_history": [
+        {
+          "date": "25.11.1997",
+          "auction_house": "Christies New York (US)",
+          "lot": "256-",
+          "estimate": "2 000 - 3 000 USD",
+          "result": "1 200 USD"
+        }
+      ]
+    },
+    {
+      "title": "Кавказский пейзаж",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "12,5х23,5",
+      "technique": "Доска; масло (2)",
+      "latest_sale_details": {
+        "date": "15.06.1995",
+        "auction_house": "Sothebys",
+        "estimate": "800 - 1 200 GBP",
+        "sale_price": "1 900 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.06.1995",
+          "auction_house": "Sothebys London",
+          "lot": "109-",
+          "estimate": "800 - 1 200 GBP",
+          "result": "1 140 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Весенние работы в саду",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "26,5х52,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "17.12.1994",
+        "auction_house": "Alfa Art",
+        "estimate": "2 500 - 3 500 USD",
+        "sale_price": "5 400 USD"
+      },
+      "sales_history": [
+        {
+          "date": "17.12.1994",
+          "auction_house": "Alfa Art Москва (RU)",
+          "lot": "4-",
+          "estimate": "2 500 - 3 500 USD",
+          "result": "5 400 USD"
+        }
+      ]
+    },
+    {
+      "title": "Раннее утро на реке Донец",
+      "image": "",
+      "creation_year": "1885",
+      "dimensions_cm": "24х33,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "14.05.1994",
+        "auction_house": "Alfa Art",
+        "estimate": "1 500 - 2 000 USD",
+        "sale_price": "1 920 USD"
+      },
+      "sales_history": [
+        {
+          "date": "14.05.1994",
+          "auction_house": "Alfa Art Москва (RU)",
+          "lot": "15-",
+          "estimate": "1 500 - 2 000 USD",
+          "result": "1 920 USD"
+        }
+      ]
+    },
+    {
+      "title": "Белый дом с соломенной крышей",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "21х30",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "14.05.1992",
+        "auction_house": "Bukowskis Auctions",
+        "estimate": "Нет данных",
+        "sale_price": "907 USD"
+      },
+      "sales_history": [
+        {
+          "date": "14.05.1992",
+          "auction_house": "Bukowskis Auctions Stockholm (SE)",
+          "lot": "201-",
+          "estimate": "Нет данных",
+          "result": "7 200 SEK"
+        }
+      ]
+    },
+    {
+      "title": "Медовая гора, Кавказ",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "13х24",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "29.04.1990",
+        "auction_house": "Poulain",
+        "estimate": "Нет данных",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "29.04.1990",
+          "auction_house": "Poulain Avranches (FR)",
+          "lot": "5-",
+          "estimate": "Нет данных",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Озеро на Кавказе",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "13х24",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "29.04.1990",
+        "auction_house": "Poulain",
+        "estimate": "Нет данных",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "29.04.1990",
+          "auction_house": "Poulain Avranches (FR)",
+          "lot": "3-",
+          "estimate": "Нет данных",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    }
+  ]
+}
