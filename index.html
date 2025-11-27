@@ -955,7 +955,7 @@
       }
 
       .calc-input-group {
-        background: rgba(0,0,0,0.2);
+        background: rgba(0, 0, 0, 0.2);
         padding: 15px;
         border-radius: 10px;
       }
@@ -982,17 +982,19 @@
         font-size: 0.9em;
       }
 
-      .calc-row input, .calc-row select {
+      .calc-row input,
+      .calc-row select {
         flex: 1;
         padding: 8px 12px;
-        background: rgba(255,255,255,0.1);
-        border: 1px solid rgba(255,255,255,0.2);
+        background: rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.2);
         border-radius: 5px;
         color: #fff;
         font-size: 0.9em;
       }
 
-      .calc-row input:focus, .calc-row select:focus {
+      .calc-row input:focus,
+      .calc-row select:focus {
         border-color: #ffd700;
         outline: none;
       }
@@ -1001,7 +1003,7 @@
         -webkit-appearance: none;
         appearance: none;
         height: 6px;
-        background: rgba(255,255,255,0.2);
+        background: rgba(255, 255, 255, 0.2);
         border-radius: 3px;
         border: none;
       }
@@ -1042,7 +1044,7 @@
       }
 
       .results-section {
-        background: rgba(0,0,0,0.3);
+        background: rgba(0, 0, 0, 0.3);
         border-radius: 10px;
         padding: 20px;
         margin-top: 20px;
@@ -1057,7 +1059,11 @@
       }
 
       .price-estimate {
-        background: linear-gradient(135deg, rgba(255,215,0,0.2), rgba(255,170,0,0.1));
+        background: linear-gradient(
+          135deg,
+          rgba(255, 215, 0, 0.2),
+          rgba(255, 170, 0, 0.1)
+        );
         border: 2px solid #ffd700;
         border-radius: 12px;
         padding: 20px;
@@ -1091,7 +1097,7 @@
       }
 
       .analytics-stat {
-        background: rgba(0,0,0,0.2);
+        background: rgba(0, 0, 0, 0.2);
         padding: 15px;
         border-radius: 8px;
         text-align: center;
@@ -1123,7 +1129,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 10px;
-        border-bottom: 1px solid rgba(255,255,255,0.1);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
       }
 
       .comparable-work:last-child {
@@ -1163,6 +1169,25 @@
 
       .comparable-work-price-value.foreign:hover {
         color: #64b5f6;
+      }
+
+      .comparable-work-price-value.estimate {
+        color: #ff9800;
+        cursor: help;
+        border-bottom: 1px dashed #ff9800;
+      }
+
+      .comparable-work-price-value.estimate:hover {
+        color: #ffb74d;
+      }
+
+      .comparable-work-price-value.foreign.estimate {
+        color: #9c27b0;
+        border-bottom: 1px dashed #9c27b0;
+      }
+
+      .comparable-work-price-value.foreign.estimate:hover {
+        color: #ba68c8;
       }
 
       .comparable-work-price-original {
@@ -1376,23 +1401,44 @@
         <!-- Analytics & Calculator Panel -->
         <div class="analytics-panel" id="analyticsPanel">
           <div class="analytics-header" onclick="toggleAnalytics()">
-            <h2>📊 Аналитика и калькулятор цены
-              <button class="info-btn" onclick="event.stopPropagation(); showCalcInfo()" title="Как работает калькулятор">?</button>
+            <h2>
+              📊 Аналитика и калькулятор цены
+              <button
+                class="info-btn"
+                onclick="event.stopPropagation(); showCalcInfo()"
+                title="Как работает калькулятор"
+              >
+                ?
+              </button>
             </h2>
-            <button class="analytics-toggle" id="analyticsToggle">Развернуть ▼</button>
+            <button class="analytics-toggle" id="analyticsToggle">
+              Развернуть ▼
+            </button>
           </div>
-          
+
           <div class="analytics-content" id="analyticsContent">
             <div class="calculator-section">
               <div class="calc-input-group">
                 <h3>📐 Параметры оцениваемой картины</h3>
                 <div class="calc-row">
                   <label>Ширина (см):</label>
-                  <input type="number" id="calcWidth" placeholder="например, 50" min="1" max="500">
+                  <input
+                    type="number"
+                    id="calcWidth"
+                    placeholder="например, 50"
+                    min="1"
+                    max="500"
+                  />
                 </div>
                 <div class="calc-row">
                   <label>Высота (см):</label>
-                  <input type="number" id="calcHeight" placeholder="например, 70" min="1" max="500">
+                  <input
+                    type="number"
+                    id="calcHeight"
+                    placeholder="например, 70"
+                    min="1"
+                    max="500"
+                  />
                 </div>
                 <div class="calc-row">
                   <label>Допуск площади:</label>
@@ -1404,7 +1450,7 @@
                   </select>
                 </div>
               </div>
-              
+
               <div class="calc-input-group">
                 <h3>⚙️ Настройки расчёта</h3>
                 <div class="calc-row">
@@ -1417,37 +1463,85 @@
                 </div>
                 <div class="calc-row">
                   <label>Дисконт зарубежных:</label>
-                  <input type="range" id="calcForeignDiscount" min="0.4" max="1.0" step="0.05" value="0.6">
+                  <input
+                    type="range"
+                    id="calcForeignDiscount"
+                    min="0.4"
+                    max="1.0"
+                    step="0.05"
+                    value="0.6"
+                  />
                   <span class="range-value" id="discountValue">0.60</span>
                 </div>
-                <div class="calc-row" style="font-size: 0.8em; color: #888;">
+                <div class="calc-row" style="font-size: 0.8em; color: #888">
                   <label></label>
                   <span>Коэффициент 0.60 = дисконт 40% к зарубежным ценам</span>
                 </div>
-                <button class="calc-button" onclick="calculatePrice()">🧮 Рассчитать оценку</button>
+                <div class="calc-row">
+                  <label>
+                    <input
+                      type="checkbox"
+                      id="calcIncludeUnsold"
+                      style="margin-right: 8px"
+                    />
+                    Учитывать непроданные
+                  </label>
+                </div>
+                <div
+                  class="calc-row calc-unsold-options"
+                  id="unsoldOptions"
+                  style="display: none"
+                >
+                  <label>Коэфф. эстимейта:</label>
+                  <input
+                    type="range"
+                    id="calcEstimateDiscount"
+                    min="0.5"
+                    max="1.0"
+                    step="0.05"
+                    value="0.8"
+                  />
+                  <span class="range-value" id="estimateDiscountValue"
+                    >0.80</span
+                  >
+                </div>
+                <div
+                  class="calc-row calc-unsold-options"
+                  id="unsoldHint"
+                  style="display: none; font-size: 0.8em; color: #888"
+                >
+                  <label></label>
+                  <span
+                    >Коэфф. 0.80 = эстимейт × 0.8 (рынок отверг эту цену)</span
+                  >
+                </div>
+                <button class="calc-button" onclick="calculatePrice()">
+                  🧮 Рассчитать оценку
+                </button>
               </div>
             </div>
-            
-            <div class="results-section" id="calcResults" style="display: none;">
+
+            <div class="results-section" id="calcResults" style="display: none">
               <h3>📈 Результаты анализа</h3>
-              
+
               <div class="analytics-stats" id="analyticsStats">
                 <!-- Заполняется динамически -->
               </div>
-              
+
               <div class="price-estimate" id="priceEstimate">
                 <!-- Заполняется динамически -->
               </div>
-              
+
               <h3>🔍 Сопоставимые работы</h3>
               <div class="comparable-works" id="comparableWorks">
                 <!-- Заполняется динамически -->
               </div>
-              
+
               <div class="warning-box">
-                <strong>⚠️ Важно:</strong> Данная оценка носит ориентировочный характер. 
-                Финальная стоимость зависит от сюжета, качества исполнения, провенанса, 
-                состояния работы и текущей конъюнктуры рынка.
+                <strong>⚠️ Важно:</strong> Данная оценка носит ориентировочный
+                характер. Финальная стоимость зависит от сюжета, качества
+                исполнения, провенанса, состояния работы и текущей конъюнктуры
+                рынка.
               </div>
             </div>
           </div>
@@ -1490,26 +1584,59 @@
 
     <!-- Calculator Info Modal -->
     <div id="calcInfoModal" class="info-modal" onclick="closeCalcInfo(event)">
-      <div class="info-modal-content" onclick="event.stopPropagation()" style="max-width: 700px;">
-        <button class="info-modal-close" onclick="closeCalcInfo()">&times;</button>
+      <div
+        class="info-modal-content"
+        onclick="event.stopPropagation()"
+        style="max-width: 700px"
+      >
+        <button class="info-modal-close" onclick="closeCalcInfo()">
+          &times;
+        </button>
         <h3>🧮 Как работает калькулятор оценки</h3>
-        
-        <p><strong>Цель:</strong> Получить ориентировочную рыночную оценку картины на основе реальных аукционных продаж сопоставимых работ художника.</p>
-        
+
+        <p>
+          <strong>Цель:</strong> Получить ориентировочную рыночную оценку
+          картины на основе реальных аукционных продаж сопоставимых работ
+          художника.
+        </p>
+
         <h4>📐 Входные параметры</h4>
         <ul>
-          <li><strong>Размер картины (Ш×В)</strong> — для расчёта площади и поиска аналогов</li>
-          <li><strong>Допуск площади</strong> — насколько могут отличаться аналоги (±20%...±100%)</li>
-          <li><strong>Период данных</strong> — рекомендуется «С 2014 года» (актуальный рынок после кризиса)</li>
-          <li><strong>Дисконт зарубежных цен</strong> — коэффициент 0.60 означает скидку 40% к ценам Sotheby's, Christie's и др.</li>
+          <li>
+            <strong>Размер картины (Ш×В)</strong> — для расчёта площади и поиска
+            аналогов
+          </li>
+          <li>
+            <strong>Допуск площади</strong> — насколько могут отличаться аналоги
+            (±20%...±100%)
+          </li>
+          <li>
+            <strong>Период данных</strong> — рекомендуется «С 2014 года»
+            (актуальный рынок после кризиса)
+          </li>
+          <li>
+            <strong>Дисконт зарубежных цен</strong> — коэффициент 0.60 означает
+            скидку 40% к ценам Sotheby's, Christie's и др.
+          </li>
         </ul>
-        
+
         <h4>⚙️ Алгоритм расчёта</h4>
         <ol>
-          <li><strong>Поиск аналогов:</strong> Отбираются работы с площадью в пределах заданного допуска</li>
-          <li><strong>Конвертация в рубли:</strong> Цены конвертируются по среднегодовому курсу ЦБ РФ на год продажи</li>
-          <li><strong>Корректировка зарубежных:</strong> К ценам с зарубежных аукционов применяется понижающий коэффициент (дисконт российского рынка)</li>
-          <li><strong>Расчёт диапазона:</strong>
+          <li>
+            <strong>Поиск аналогов:</strong> Отбираются работы с площадью в
+            пределах заданного допуска
+          </li>
+          <li>
+            <strong>Конвертация в рубли:</strong> Цены конвертируются по
+            среднегодовому курсу ЦБ РФ на год продажи
+          </li>
+          <li>
+            <strong>Корректировка зарубежных:</strong> К ценам с зарубежных
+            аукционов применяется понижающий коэффициент (дисконт российского
+            рынка)
+          </li>
+          <li>
+            <strong>Расчёт диапазона:</strong>
             <ul>
               <li>Нижняя граница — 25-й перцентиль (Q1) цен проданных работ</li>
               <li>Верхняя граница — 75-й перцентиль (Q3)</li>
@@ -1517,15 +1644,24 @@
             </ul>
           </li>
         </ol>
-        
+
         <h4>📊 Интерпретация результатов</h4>
         <ul>
-          <li><strong>Проданные работы</strong> — реальный спрос, основа для оценки</li>
-          <li><strong>Непроданные (эстимейт)</strong> — «потолок цены», который рынок отверг. Показывают нижнюю границу эстимейта как ориентир</li>
+          <li>
+            <strong>Проданные работы</strong> — реальный спрос, основа для
+            оценки
+          </li>
+          <li>
+            <strong>Непроданные (эстимейт)</strong> — «потолок цены», который
+            рынок отверг. Показывают нижнюю границу эстимейта как ориентир
+          </li>
           <li><strong>🇷🇺 / 🌍</strong> — российский или зарубежный аукцион</li>
-          <li><strong>Цена за см²</strong> — помогает сравнивать работы разных размеров</li>
+          <li>
+            <strong>Цена за см²</strong> — помогает сравнивать работы разных
+            размеров
+          </li>
         </ul>
-        
+
         <h4>⚠️ Ограничения</h4>
         <p>Калькулятор <strong>не учитывает</strong>:</p>
         <ul>
@@ -1535,7 +1671,12 @@
           <li>Состояние работы</li>
           <li>Редкость периода творчества</li>
         </ul>
-        <p style="margin-top: 10px; color: #ff9800;"><strong>Финальная оценка требует экспертного анализа и «здравого смысла».</strong></p>
+        <p style="margin-top: 10px; color: #ff9800">
+          <strong
+            >Финальная оценка требует экспертного анализа и «здравого
+            смысла».</strong
+          >
+        </p>
       </div>
     </div>
 
@@ -2550,61 +2691,119 @@
           if (e.key === "Escape") closeHistoricalRates();
         }
         if (
-          document
-            .getElementById("calcInfoModal")
-            .classList.contains("active")
+          document.getElementById("calcInfoModal").classList.contains("active")
         ) {
           if (e.key === "Escape") closeCalcInfo();
         }
       });
 
       // ===== ANALYTICS & CALCULATOR =====
-      
+
       // Список известных зарубежных аукционных домов
       const foreignAuctionHouses = [
-        'sotheby', 'christie', 'bonhams', 'macdougall', 'phillips',
-        'dorotheum', 'bruun', 'bukowskis', 'artcurial', 'millon',
-        'aguttes', 'drouot', 'koller', 'lempertz', 'ketterer',
-        'grisebach', 'hampel', 'nagel', 'neumeister', 'van ham',
-        'bloomsbury', 'lyon', 'bader', 'zofingen', 'piasa'
+        "sotheby",
+        "christie",
+        "bonhams",
+        "macdougall",
+        "phillips",
+        "dorotheum",
+        "bruun",
+        "bukowskis",
+        "artcurial",
+        "millon",
+        "aguttes",
+        "drouot",
+        "koller",
+        "lempertz",
+        "ketterer",
+        "grisebach",
+        "hampel",
+        "nagel",
+        "neumeister",
+        "van ham",
+        "bloomsbury",
+        "lyon",
+        "bader",
+        "zofingen",
+        "piasa",
       ];
 
       function isForeignAuction(auctionHouse) {
         if (!auctionHouse) return false;
         const lower = auctionHouse.toLowerCase();
-        return foreignAuctionHouses.some(name => lower.includes(name)) ||
-               lower.includes('london') || lower.includes('new york') ||
-               lower.includes('paris') || lower.includes('geneva') ||
-               lower.includes('zurich') || lower.includes('munich') ||
-               lower.includes('vienna') || lower.includes('stockholm');
+        return (
+          foreignAuctionHouses.some((name) => lower.includes(name)) ||
+          lower.includes("london") ||
+          lower.includes("new york") ||
+          lower.includes("paris") ||
+          lower.includes("geneva") ||
+          lower.includes("zurich") ||
+          lower.includes("munich") ||
+          lower.includes("vienna") ||
+          lower.includes("stockholm")
+        );
       }
 
       function toggleAnalytics() {
-        const content = document.getElementById('analyticsContent');
-        const toggle = document.getElementById('analyticsToggle');
-        if (content.classList.contains('expanded')) {
-          content.classList.remove('expanded');
-          toggle.textContent = 'Развернуть ▼';
+        const content = document.getElementById("analyticsContent");
+        const toggle = document.getElementById("analyticsToggle");
+        if (content.classList.contains("expanded")) {
+          content.classList.remove("expanded");
+          toggle.textContent = "Развернуть ▼";
         } else {
-          content.classList.add('expanded');
-          toggle.textContent = 'Свернуть ▲';
+          content.classList.add("expanded");
+          toggle.textContent = "Свернуть ▲";
         }
       }
 
       // Обработчик ползунка дисконта
-      document.getElementById('calcForeignDiscount').addEventListener('input', function() {
-        document.getElementById('discountValue').textContent = parseFloat(this.value).toFixed(2);
-      });
+      document
+        .getElementById("calcForeignDiscount")
+        .addEventListener("input", function () {
+          document.getElementById("discountValue").textContent = parseFloat(
+            this.value
+          ).toFixed(2);
+        });
+
+      // Обработчик ползунка эстимейта
+      document
+        .getElementById("calcEstimateDiscount")
+        .addEventListener("input", function () {
+          document.getElementById("estimateDiscountValue").textContent =
+            parseFloat(this.value).toFixed(2);
+        });
+
+      // Обработчик чекбокса непроданных
+      document
+        .getElementById("calcIncludeUnsold")
+        .addEventListener("change", function () {
+          const show = this.checked;
+          document.getElementById("unsoldOptions").style.display = show
+            ? "flex"
+            : "none";
+          document.getElementById("unsoldHint").style.display = show
+            ? "flex"
+            : "none";
+        });
 
       function calculatePrice() {
-        const width = parseFloat(document.getElementById('calcWidth').value);
-        const height = parseFloat(document.getElementById('calcHeight').value);
-        const tolerance = parseFloat(document.getElementById('calcAreaTolerance').value);
-        const period = document.getElementById('calcPeriod').value;
-        const foreignDiscount = parseFloat(document.getElementById('calcForeignDiscount').value);
+        const width = parseFloat(document.getElementById("calcWidth").value);
+        const height = parseFloat(document.getElementById("calcHeight").value);
+        const tolerance = parseFloat(
+          document.getElementById("calcAreaTolerance").value
+        );
+        const period = document.getElementById("calcPeriod").value;
+        const foreignDiscount = parseFloat(
+          document.getElementById("calcForeignDiscount").value
+        );
+        const includeUnsold =
+          document.getElementById("calcIncludeUnsold").checked;
+        const estimateDiscount = parseFloat(
+          document.getElementById("calcEstimateDiscount").value
+        );
 
         if (!width || !height) {
-          alert('Введите ширину и высоту картины');
+          alert("Введите ширину и высоту картины");
           return;
         }
 
@@ -2613,96 +2812,119 @@
         const maxArea = targetArea * (1 + tolerance);
 
         // Фильтруем работы по площади и периоду
-        let comparable = artworksData.filter(artwork => {
+        let comparable = artworksData.filter((artwork) => {
           const dim = artwork.parsedDimensions;
           if (!dim.area) return false;
           if (dim.area < minArea || dim.area > maxArea) return false;
-          
+
           // Фильтр по периоду
-          if (period !== 'all') {
+          if (period !== "all") {
             const year = getYearFromDate(artwork.latest_sale_details?.date);
             if (!year || year < parseInt(period)) return false;
           }
-          
+
           return true;
         });
 
         // Разделяем на проданные и непроданные
         const soldWorks = comparable.filter(isSold);
-        const unsoldWorks = comparable.filter(a => !isSold(a));
+        const unsoldWorks = comparable.filter((a) => !isSold(a));
 
         // Рассчитываем цены в рублях с учётом коэффициентов
-        const pricesWithDetails = soldWorks.map(artwork => {
-          const sale = artwork.latest_sale_details || {};
-          const priceData = parsePriceValue(sale.sale_price);
-          if (!priceData) return null;
-          
-          const year = getYearFromDate(sale.date);
-          const histRate = year ? getHistoricalRate(year, priceData.currency) : null;
-          const rate = histRate || currentRates[priceData.currency] || 1;
-          let priceRub = priceData.amount * rate;
-          
-          const isForeign = isForeignAuction(sale.auction_house);
-          if (isForeign) {
-            priceRub *= foreignDiscount;
-          }
-          
-          return {
-            artwork,
-            priceRub,
-            originalPrice: `${priceData.amount.toLocaleString('ru-RU')} ${priceData.currency}`,
-            isForeign,
-            year,
-            area: artwork.parsedDimensions.area,
-            // Данные для формулы
-            formulaData: isForeign ? {
-              amount: priceData.amount,
-              currency: priceData.currency,
-              rate: rate,
-              discount: foreignDiscount,
-              priceBeforeDiscount: priceData.amount * rate
-            } : null
-          };
-        }).filter(Boolean);
+        const pricesWithDetails = soldWorks
+          .map((artwork) => {
+            const sale = artwork.latest_sale_details || {};
+            const priceData = parsePriceValue(sale.sale_price);
+            if (!priceData) return null;
+
+            const year = getYearFromDate(sale.date);
+            const histRate = year
+              ? getHistoricalRate(year, priceData.currency)
+              : null;
+            const rate = histRate || currentRates[priceData.currency] || 1;
+            let priceRub = priceData.amount * rate;
+
+            const isForeign = isForeignAuction(sale.auction_house);
+            if (isForeign) {
+              priceRub *= foreignDiscount;
+            }
+
+            return {
+              artwork,
+              priceRub,
+              originalPrice: `${priceData.amount.toLocaleString("ru-RU")} ${
+                priceData.currency
+              }`,
+              isForeign,
+              year,
+              area: artwork.parsedDimensions.area,
+              // Данные для формулы
+              formulaData: isForeign
+                ? {
+                    amount: priceData.amount,
+                    currency: priceData.currency,
+                    rate: rate,
+                    discount: foreignDiscount,
+                    priceBeforeDiscount: priceData.amount * rate,
+                  }
+                : null,
+            };
+          })
+          .filter(Boolean);
 
         // Эстимейты непроданных (как потолок)
-        const unsoldEstimates = unsoldWorks.map(artwork => {
-          const sale = artwork.latest_sale_details || {};
-          const estStr = sale.estimate || '';
-          // Берём нижнюю границу эстимейта
-          const match = estStr.match(/([\d\s,.]+)\s*[-–]\s*[\d\s,.]+\s*(USD|EUR|GBP|CHF|RUR|RUB)/i);
-          if (!match) return null;
-          
-          const amount = parseFloat(match[1].replace(/[\s,]/g, '').replace(',', '.'));
-          const currency = match[2].toUpperCase();
-          const year = getYearFromDate(sale.date);
-          const histRate = year ? getHistoricalRate(year, currency) : null;
-          const rate = histRate || currentRates[currency] || 1;
-          let priceRub = amount * rate;
-          
-          const isForeign = isForeignAuction(sale.auction_house);
-          if (isForeign) {
-            priceRub *= foreignDiscount;
-          }
-          
-          return {
-            artwork,
-            priceRub,
-            originalPrice: `${amount.toLocaleString('ru-RU')} ${currency} (эстимейт)`,
-            isForeign,
-            year,
-            area: artwork.parsedDimensions.area,
-            isEstimate: true,
-            // Данные для формулы
-            formulaData: isForeign ? {
-              amount: amount,
-              currency: currency,
-              rate: rate,
-              discount: foreignDiscount,
-              priceBeforeDiscount: amount * rate
-            } : null
-          };
-        }).filter(Boolean);
+        const unsoldEstimates = unsoldWorks
+          .map((artwork) => {
+            const sale = artwork.latest_sale_details || {};
+            const estStr = sale.estimate || "";
+            // Берём нижнюю границу эстимейта
+            const match = estStr.match(
+              /([\d\s,.]+)\s*[-–]\s*[\d\s,.]+\s*(USD|EUR|GBP|CHF|RUR|RUB)/i
+            );
+            if (!match) return null;
+
+            const amount = parseFloat(
+              match[1].replace(/[\s,]/g, "").replace(",", ".")
+            );
+            const currency = match[2].toUpperCase();
+            const year = getYearFromDate(sale.date);
+            const histRate = year ? getHistoricalRate(year, currency) : null;
+            const rate = histRate || currentRates[currency] || 1;
+            let priceRub = amount * rate;
+
+            const isForeign = isForeignAuction(sale.auction_house);
+            if (isForeign) {
+              priceRub *= foreignDiscount;
+            }
+
+            // Применяем коэффициент эстимейта (рынок отверг эту цену)
+            const priceBeforeEstDiscount = priceRub;
+            priceRub *= estimateDiscount;
+
+            return {
+              artwork,
+              priceRub,
+              originalPrice: `${amount.toLocaleString(
+                "ru-RU"
+              )} ${currency} (эстимейт)`,
+              isForeign,
+              year,
+              area: artwork.parsedDimensions.area,
+              isEstimate: true,
+              estimateDiscount: estimateDiscount,
+              // Данные для формулы
+              formulaData: {
+                amount: amount,
+                currency: currency,
+                rate: rate,
+                foreignDiscount: isForeign ? foreignDiscount : 1,
+                estimateDiscount: estimateDiscount,
+                priceBeforeDiscount: amount * rate,
+                priceBeforeEstDiscount: priceBeforeEstDiscount,
+              },
+            };
+          })
+          .filter(Boolean);
 
         // Отображаем результаты
         displayCalculatorResults({
@@ -2712,41 +2934,67 @@
           foreignDiscount,
           soldWorks: pricesWithDetails,
           unsoldEstimates,
-          totalComparable: comparable.length
+          totalComparable: comparable.length,
+          includeUnsold,
+          estimateDiscount,
         });
       }
 
       function displayCalculatorResults(data) {
-        const resultsDiv = document.getElementById('calcResults');
-        resultsDiv.style.display = 'block';
+        const resultsDiv = document.getElementById("calcResults");
+        resultsDiv.style.display = "block";
 
-        const { soldWorks, unsoldEstimates, targetArea, period, foreignDiscount, totalComparable } = data;
+        const {
+          soldWorks,
+          unsoldEstimates,
+          targetArea,
+          period,
+          foreignDiscount,
+          totalComparable,
+          includeUnsold,
+          estimateDiscount,
+        } = data;
 
         // Статистика
-        const statsDiv = document.getElementById('analyticsStats');
-        const foreignCount = soldWorks.filter(w => w.isForeign).length;
+        const statsDiv = document.getElementById("analyticsStats");
+        const foreignCount = soldWorks.filter((w) => w.isForeign).length;
         const russianCount = soldWorks.length - foreignCount;
-        
+
+        // Объединяем данные для расчёта если включены непроданные
+        const worksForCalc = includeUnsold
+          ? [...soldWorks, ...unsoldEstimates]
+          : soldWorks;
+
         // Расчёт медианы и среднего
-        const prices = soldWorks.map(w => w.priceRub).sort((a, b) => a - b);
-        const median = prices.length > 0 ? 
-          (prices.length % 2 === 0 
-            ? (prices[prices.length/2 - 1] + prices[prices.length/2]) / 2 
-            : prices[Math.floor(prices.length/2)]) 
-          : 0;
-        const avg = prices.length > 0 ? prices.reduce((a, b) => a + b, 0) / prices.length : 0;
+        const prices = worksForCalc
+          .map((w) => w.priceRub)
+          .sort((a, b) => a - b);
+        const median =
+          prices.length > 0
+            ? prices.length % 2 === 0
+              ? (prices[prices.length / 2 - 1] + prices[prices.length / 2]) / 2
+              : prices[Math.floor(prices.length / 2)]
+            : 0;
+        const avg =
+          prices.length > 0
+            ? prices.reduce((a, b) => a + b, 0) / prices.length
+            : 0;
         const minPrice = prices.length > 0 ? Math.min(...prices) : 0;
         const maxPrice = prices.length > 0 ? Math.max(...prices) : 0;
 
         // Цена за см² (медианная)
-        const pricePerSqCm = soldWorks.length > 0 
-          ? soldWorks.map(w => w.priceRub / w.area).sort((a, b) => a - b)
-          : [];
-        const medianPerSqCm = pricePerSqCm.length > 0
-          ? (pricePerSqCm.length % 2 === 0 
-              ? (pricePerSqCm[pricePerSqCm.length/2 - 1] + pricePerSqCm[pricePerSqCm.length/2]) / 2 
-              : pricePerSqCm[Math.floor(pricePerSqCm.length/2)])
-          : 0;
+        const pricePerSqCm =
+          worksForCalc.length > 0
+            ? worksForCalc.map((w) => w.priceRub / w.area).sort((a, b) => a - b)
+            : [];
+        const medianPerSqCm =
+          pricePerSqCm.length > 0
+            ? pricePerSqCm.length % 2 === 0
+              ? (pricePerSqCm[pricePerSqCm.length / 2 - 1] +
+                  pricePerSqCm[pricePerSqCm.length / 2]) /
+                2
+              : pricePerSqCm[Math.floor(pricePerSqCm.length / 2)]
+            : 0;
 
         statsDiv.innerHTML = `
           <div class="analytics-stat">
@@ -2758,26 +3006,36 @@
             <div class="analytics-stat-label">Проданных</div>
           </div>
           <div class="analytics-stat">
-            <div class="analytics-stat-value ${unsoldEstimates.length > soldWorks.length ? 'warning' : ''}">${unsoldEstimates.length}</div>
-            <div class="analytics-stat-label">Не продано</div>
+            <div class="analytics-stat-value ${
+              unsoldEstimates.length > soldWorks.length ? "warning" : ""
+            }">${unsoldEstimates.length}${includeUnsold ? " ✓" : ""}</div>
+            <div class="analytics-stat-label">Не продано${
+              includeUnsold ? " (×" + estimateDiscount + ")" : ""
+            }</div>
           </div>
           <div class="analytics-stat">
             <div class="analytics-stat-value">${russianCount} / ${foreignCount}</div>
             <div class="analytics-stat-label">РФ / Зарубеж</div>
           </div>
           <div class="analytics-stat">
-            <div class="analytics-stat-value">${medianPerSqCm > 0 ? Math.round(medianPerSqCm).toLocaleString('ru-RU') : '—'}</div>
+            <div class="analytics-stat-value">${
+              medianPerSqCm > 0
+                ? Math.round(medianPerSqCm).toLocaleString("ru-RU")
+                : "—"
+            }</div>
             <div class="analytics-stat-label">₽ за см² (медиана)</div>
           </div>
         `;
 
         // Оценка
-        const estimateDiv = document.getElementById('priceEstimate');
-        if (soldWorks.length === 0) {
+        const estimateDiv = document.getElementById("priceEstimate");
+        if (worksForCalc.length === 0) {
           estimateDiv.innerHTML = `
             <div class="price-estimate-label">Недостаточно данных</div>
-            <div class="price-estimate-value" style="color: #888;">Нет проданных работ в этом диапазоне</div>
-            <div class="price-estimate-note">Попробуйте расширить допуск площади или период</div>
+            <div class="price-estimate-value" style="color: #888;">Нет работ в этом диапазоне</div>
+            <div class="price-estimate-note">Попробуйте расширить допуск площади или период${
+              !includeUnsold ? ", или включите непроданные" : ""
+            }</div>
           `;
         } else {
           // Рекомендуемый диапазон: от Q1 до Q3 (или min-max если мало данных)
@@ -2802,46 +3060,77 @@
             </div>
             <div class="price-estimate-note">
               Медиана: ${formatRub(median)} | 
-              По площади (${Math.round(targetArea)} см² × ${Math.round(medianPerSqCm)} ₽): ${formatRub(estimateByArea)}
+              По площади (${Math.round(targetArea)} см² × ${Math.round(
+            medianPerSqCm
+          )} ₽): ${formatRub(estimateByArea)}
             </div>
-            ${period !== 'all' ? `<div class="price-estimate-note">Данные с ${period} года, к зарубежным применён коэффициент ${foreignDiscount}</div>` : ''}
+            <div class="price-estimate-note">
+              ${period !== "all" ? `Данные с ${period} года` : "Все годы"}
+              ${foreignCount > 0 ? `, зарубежные ×${foreignDiscount}` : ""}
+              ${includeUnsold ? `, непроданные ×${estimateDiscount}` : ""}
+            </div>
           `;
         }
 
         // Список сопоставимых работ
-        const worksDiv = document.getElementById('comparableWorks');
-        const allWorks = [...soldWorks, ...unsoldEstimates].sort((a, b) => b.priceRub - a.priceRub);
+        const worksDiv = document.getElementById("comparableWorks");
+        const allWorks = [...soldWorks, ...unsoldEstimates].sort(
+          (a, b) => b.priceRub - a.priceRub
+        );
 
         if (allWorks.length === 0) {
-          worksDiv.innerHTML = '<div class="no-results-calc">Нет сопоставимых работ</div>';
+          worksDiv.innerHTML =
+            '<div class="no-results-calc">Нет сопоставимых работ</div>';
         } else {
-          worksDiv.innerHTML = allWorks.slice(0, 15).map(item => {
-            const dim = item.artwork.parsedDimensions;
-            const sale = item.artwork.latest_sale_details || {};
-            return `
+          worksDiv.innerHTML = allWorks
+            .slice(0, 15)
+            .map((item) => {
+              const dim = item.artwork.parsedDimensions;
+              const sale = item.artwork.latest_sale_details || {};
+              return `
               <div class="comparable-work">
                 <div class="comparable-work-info">
                   <div class="comparable-work-title">${item.artwork.title}</div>
                   <div class="comparable-work-details">
-                    ${dim.height}×${dim.width} см (${Math.round(dim.area)} см²) | 
-                    ${sale.auction_house || '?'} | ${item.year || '?'}
-                    ${item.isForeign ? ' 🌍' : ' 🇷🇺'}
-                    ${item.isEstimate ? ' <span style="color:#ff9800">(не продано)</span>' : ''}
+                    ${dim.height}×${dim.width} см (${Math.round(
+                dim.area
+              )} см²) | 
+                    ${sale.auction_house || "?"} | ${item.year || "?"}
+                    ${item.isForeign ? " 🌍" : " 🇷🇺"}
+                    ${
+                      item.isEstimate
+                        ? ' <span style="color:#ff9800">(не продано)</span>'
+                        : ""
+                    }
                   </div>
                 </div>
                 <div class="comparable-work-price">
-                  <div class="comparable-work-price-value ${item.isForeign ? 'foreign' : ''}" 
-                       ${item.isForeign && item.formulaData ? `title="Формула: ${item.formulaData.amount.toLocaleString('ru-RU')} ${item.formulaData.currency} × ${item.formulaData.rate.toFixed(2)} ₽ × ${item.formulaData.discount} = ${formatRub(item.priceRub)}\n(до дисконта: ${formatRub(item.formulaData.priceBeforeDiscount)})"` : ''}>
+                  <div class="comparable-work-price-value ${
+                    item.isForeign ? "foreign" : ""
+                  }${item.isEstimate ? " estimate" : ""}" 
+                       ${
+                         item.formulaData
+                           ? `title="${item.isEstimate 
+                               ? `Формула: ${item.formulaData.amount.toLocaleString("ru-RU")} ${item.formulaData.currency} × ${item.formulaData.rate.toFixed(2)} ₽${item.formulaData.foreignDiscount < 1 ? ' × ' + item.formulaData.foreignDiscount + ' (заруб.)' : ''} × ${item.formulaData.estimateDiscount} (эст.) = ${formatRub(item.priceRub)}\n(эстимейт до коэфф.: ${formatRub(item.formulaData.priceBeforeEstDiscount)})`
+                               : `Формула: ${item.formulaData.amount.toLocaleString("ru-RU")} ${item.formulaData.currency} × ${item.formulaData.rate.toFixed(2)} ₽ × ${item.formulaData.discount} = ${formatRub(item.priceRub)}\n(до дисконта: ${formatRub(item.formulaData.priceBeforeDiscount)})`
+                             }"`
+                           : ""
+                       }>
                     ${formatRub(item.priceRub)}
                   </div>
-                  <div class="comparable-work-price-original">${item.originalPrice}</div>
+                  <div class="comparable-work-price-original">${
+                    item.originalPrice
+                  }</div>
                 </div>
               </div>
             `;
-          }).join('');
+            })
+            .join("");
 
           if (allWorks.length > 15) {
-            worksDiv.innerHTML += `<div style="text-align:center; padding:10px; color:#888;">... и ещё ${allWorks.length - 15} работ</div>`;
+            worksDiv.innerHTML += `<div style="text-align:center; padding:10px; color:#888;">... и ещё ${
+              allWorks.length - 15
+            } работ</div>`;
           }
         }
       }
