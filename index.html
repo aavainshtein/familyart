@@ -1157,6 +1157,12 @@
 
       .comparable-work-price-value.foreign {
         color: #2196f3;
+        cursor: help;
+        border-bottom: 1px dashed #2196f3;
+      }
+
+      .comparable-work-price-value.foreign:hover {
+        color: #64b5f6;
       }
 
       .comparable-work-price-original {
@@ -2647,7 +2653,15 @@
             originalPrice: `${priceData.amount.toLocaleString('ru-RU')} ${priceData.currency}`,
             isForeign,
             year,
-            area: artwork.parsedDimensions.area
+            area: artwork.parsedDimensions.area,
+            // Данные для формулы
+            formulaData: isForeign ? {
+              amount: priceData.amount,
+              currency: priceData.currency,
+              rate: rate,
+              discount: foreignDiscount,
+              priceBeforeDiscount: priceData.amount * rate
+            } : null
           };
         }).filter(Boolean);
 
@@ -2678,7 +2692,15 @@
             isForeign,
             year,
             area: artwork.parsedDimensions.area,
-            isEstimate: true
+            isEstimate: true,
+            // Данные для формулы
+            formulaData: isForeign ? {
+              amount: amount,
+              currency: currency,
+              rate: rate,
+              discount: foreignDiscount,
+              priceBeforeDiscount: amount * rate
+            } : null
           };
         }).filter(Boolean);
 
@@ -2808,7 +2830,10 @@
                   </div>
                 </div>
                 <div class="comparable-work-price">
-                  <div class="comparable-work-price-value ${item.isForeign ? 'foreign' : ''}">${formatRub(item.priceRub)}</div>
+                  <div class="comparable-work-price-value ${item.isForeign ? 'foreign' : ''}" 
+                       ${item.isForeign && item.formulaData ? `title="Формула: ${item.formulaData.amount.toLocaleString('ru-RU')} ${item.formulaData.currency} × ${item.formulaData.rate.toFixed(2)} ₽ × ${item.formulaData.discount} = ${formatRub(item.priceRub)}\n(до дисконта: ${formatRub(item.formulaData.priceBeforeDiscount)})"` : ''}>
+                    ${formatRub(item.priceRub)}
+                  </div>
                   <div class="comparable-work-price-original">${item.originalPrice}</div>
                 </div>
               </div>
