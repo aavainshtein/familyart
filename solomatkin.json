@@ -1,0 +1,826 @@
+{
+  "artist": "Соломаткин Леонид Иванович",
+  "data_source": "ARTinvestment.RU",
+  "artworks": [
+    {
+      "title": "Славильщики",
+      "image": "8192230_small.jpeg",
+      "creation_year": "1876",
+      "dimensions_cm": "40х53",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "08.06.2025",
+        "auction_house": "Московский Аукционный дом",
+        "estimate": "1 000 - 1 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "08.06.2025",
+          "auction_house": "Московский Аукционный дом Москва (RU)",
+          "lot": "8-",
+          "estimate": "1 000 - 1 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Ценители прекрасного",
+      "image": "8091350_small.jpg",
+      "creation_year": "1880-е",
+      "dimensions_cm": "29х39",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "05.04.2025",
+        "auction_house": "Антиквариум",
+        "estimate": "1 500 000 - 1 500 000 RUR",
+        "sale_price": "1 900 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "05.04.2025",
+          "auction_house": "Антиквариум Москва (RU)",
+          "lot": "46-",
+          "estimate": "1 500 000 - 1 500 000 RUR",
+          "result": "1 900 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Market scene",
+      "image": "7514350_small.jpg",
+      "creation_year": "1867",
+      "dimensions_cm": "32х27",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.11.2023",
+        "auction_house": "Bonhams",
+        "estimate": "3 000 - 4 000 GBP",
+        "sale_price": "35 558 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.11.2023",
+          "auction_house": "Bonhams London, Knightsbridge",
+          "lot": "97",
+          "estimate": "3 000 - 4 000 GBP",
+          "result": "28 160 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Village scene",
+      "image": "7514370_small.jpg",
+      "creation_year": "1867",
+      "dimensions_cm": "32х27",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.11.2023",
+        "auction_house": "Bonhams",
+        "estimate": "3 000 - 4 000 GBP",
+        "sale_price": "40 406 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.11.2023",
+          "auction_house": "Bonhams London, Knightsbridge",
+          "lot": "98",
+          "estimate": "3 000 - 4 000 GBP",
+          "result": "32 000 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Scène nocturne près de la taverne",
+      "image": "7350270_small.jpeg",
+      "creation_year": "1872",
+      "dimensions_cm": "67х98,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "09.06.2023",
+        "auction_house": "Millon &amp; Associes",
+        "estimate": "80 000 - 100 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "09.06.2023",
+          "auction_house": "Millon &amp; Associes Paris (FR)",
+          "lot": "72",
+          "estimate": "80 000 - 100 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Чаепитие",
+      "image": "7122550_small.jpg",
+      "creation_year": "1870",
+      "dimensions_cm": "28х38",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "23.12.2022",
+        "auction_house": "AI Аукцион",
+        "estimate": "Нет данных",
+        "sale_price": "1 298 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "23.12.2022",
+          "auction_house": "AI Аукцион Москва (RU)",
+          "lot": "122274-",
+          "estimate": "Нет данных",
+          "result": "1 298 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "У поклонного креста",
+      "image": "6920530_small.jpg",
+      "creation_year": "1875",
+      "dimensions_cm": "48х60",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "05.08.2022",
+        "auction_house": "AI Аукцион",
+        "estimate": "Нет данных",
+        "sale_price": "1 121 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "05.08.2022",
+          "auction_house": "AI Аукцион Москва (RU)",
+          "lot": "121565-",
+          "estimate": "Нет данных",
+          "result": "1 121 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Продавец икон",
+      "image": "6481330_small.jpg",
+      "creation_year": "1873",
+      "dimensions_cm": "24,5х33",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "21.10.2021",
+        "auction_house": "Аукционный дом номер один",
+        "estimate": "3 500 000 - 3 800 000 RUR",
+        "sale_price": "3 500 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "21.10.2021",
+          "auction_house": "Аукционный дом номер один Москва (RU)",
+          "lot": "19",
+          "estimate": "3 500 000 - 3 800 000 RUR",
+          "result": "3 500 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Продавец икон",
+      "image": "6415690_small.jpg",
+      "creation_year": "1873",
+      "dimensions_cm": "24,5х31",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "22.09.2021",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "4 800 000 - 6 000 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "22.09.2021",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "8",
+          "estimate": "4 800 000 - 6 000 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Christmas Chorus",
+      "image": "6273730_small.jpg",
+      "creation_year": "1876",
+      "dimensions_cm": "46х70",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "08.06.2021",
+        "auction_house": "Sothebys",
+        "estimate": "30 000 - 50 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "08.06.2021",
+          "auction_house": "Sothebys London",
+          "lot": "11-",
+          "estimate": "30 000 - 50 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "03.06.2013",
+          "auction_house": "Christies London, King Street",
+          "lot": "24",
+          "estimate": "30 000 - 50 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Prière devant la chapelle itinérante",
+      "image": "5916210_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "21х16",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "13.10.2020",
+        "auction_house": "Millon &amp; Associes",
+        "estimate": "700 - 900 EUR",
+        "sale_price": "Обрабатываетcя / Нет данных"
+      },
+      "sales_history": [
+        {
+          "date": "13.10.2020",
+          "auction_house": "Millon &amp; Associes Paris (FR)",
+          "lot": "57",
+          "estimate": "700 - 900 EUR",
+          "result": "Нет результата &lt;"
+        },
+        {
+          "date": "02.12.2019",
+          "auction_house": "Millon &amp; Associes Paris (FR)",
+          "lot": "157",
+          "estimate": "1 000 - 1 200 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Night Scene near a Tavern",
+      "image": "5678270_small.jpg",
+      "creation_year": "1872",
+      "dimensions_cm": "67х98,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "30.05.2020",
+        "auction_house": "MacDougall",
+        "estimate": "120 000 - 180 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "30.05.2020",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "12",
+          "estimate": "120 000 - 180 000 GBP",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "29.11.2017",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "25-",
+          "estimate": "130 000 - 200 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Славильщики",
+      "image": "5623810_small.jpg",
+      "creation_year": "1876",
+      "dimensions_cm": "40х53",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "21.04.2020",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "6 900 000 - 8 500 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "21.04.2020",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "13",
+          "estimate": "6 900 000 - 8 500 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Ценители искусства",
+      "image": "5393310_small.jpg",
+      "creation_year": "К. 1870-х - нач. 1880-х",
+      "dimensions_cm": "29х39",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "30.11.2019",
+        "auction_house": "Антиквариум",
+        "estimate": "12 000 - 18 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "30.11.2019",
+          "auction_house": "Антиквариум Москва (RU)",
+          "lot": "90",
+          "estimate": "12 000 - 18 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Meeting by the Lake",
+      "image": "5381250_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "51,5х43,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "25.11.2019",
+        "auction_house": "MacDougall",
+        "estimate": "20 000 - 30 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "25.11.2019",
+          "auction_house": "MacDougall London (GB)",
+          "lot": "205-",
+          "estimate": "20 000 - 30 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Ценители прекрасного",
+      "image": "5023490_small.jpg",
+      "creation_year": "1880-е",
+      "dimensions_cm": "29х39",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "20.04.2019",
+        "auction_house": "Антиквариум",
+        "estimate": "300 000 - 300 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "20.04.2019",
+          "auction_house": "Антиквариум Москва (RU)",
+          "lot": "49",
+          "estimate": "300 000 - 300 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Жанровая сцена. Чаепитие",
+      "image": "4369110_small.jpg",
+      "creation_year": "1882",
+      "dimensions_cm": "40,5х26,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "17.12.2017",
+        "auction_house": "Аукционный дом Егоровых",
+        "estimate": "2 200 000 - 2 800 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "17.12.2017",
+          "auction_house": "Аукционный дом Егоровых Москва (RU)",
+          "lot": "31",
+          "estimate": "2 200 000 - 2 800 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Ледоход",
+      "image": "2648190_small.jpg",
+      "creation_year": "1881",
+      "dimensions_cm": "28х35,7",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "19.05.2013",
+        "auction_house": "Русские сезоны",
+        "estimate": "80 000 - 120 000 USD",
+        "sale_price": "3 565 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "19.05.2013",
+          "auction_house": "Русские сезоны Санкт-Петербург (RU)",
+          "lot": "35",
+          "estimate": "80 000 - 120 000 USD",
+          "result": "3 565 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Жанровая сценка",
+      "image": "2077810_small.jpg",
+      "creation_year": "1860 (8?)",
+      "dimensions_cm": "28,5х24,7",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "23.06.2011",
+        "auction_house": "Аукционный дом Кабинет",
+        "estimate": "3 000 000 - 3 500 000 RUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "23.06.2011",
+          "auction_house": "Аукционный дом Кабинет Москва (RU)",
+          "lot": "38",
+          "estimate": "3 000 000 - 3 500 000 RUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Развлечение чиновников",
+      "image": "2001710_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "24,1х31,1",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "06.06.2011",
+        "auction_house": "Sothebys",
+        "estimate": "150 000 - 180 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "06.06.2011",
+          "auction_house": "Sothebys London",
+          "lot": "45-",
+          "estimate": "150 000 - 180 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Веселая жизнь у кабака",
+      "image": "2029950_small.jpg",
+      "creation_year": "1876",
+      "dimensions_cm": "59х76,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "25.05.2011",
+        "auction_house": "Bukowskis Auctions",
+        "estimate": "40 000 - 50 000 EUR",
+        "sale_price": "118 306 USD"
+      },
+      "sales_history": [
+        {
+          "date": "25.05.2011",
+          "auction_house": "Bukowskis Auctions Stockholm (SE)",
+          "lot": "336",
+          "estimate": "40 000 - 50 000 EUR",
+          "result": "84 000 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Тяжелая дорога",
+      "image": "1817470_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "50х73,8",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "30.11.2010",
+        "auction_house": "Sothebys",
+        "estimate": "30 000 - 50 000 GBP",
+        "sale_price": "54 241 USD"
+      },
+      "sales_history": [
+        {
+          "date": "30.11.2010",
+          "auction_house": "Sothebys London",
+          "lot": "9-",
+          "estimate": "30 000 - 50 000 GBP",
+          "result": "34 850 GBP"
+        }
+      ]
+    },
+    {
+      "title": "На улице. Петрушка",
+      "image": "1137480_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "50х66",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "21.11.2008",
+        "auction_house": "Bruun Rasmussen",
+        "estimate": "300 000 - 500 000 DKK",
+        "sale_price": "98 030 USD"
+      },
+      "sales_history": [
+        {
+          "date": "21.11.2008",
+          "auction_house": "Bruun Rasmussen Copenhagen (DK)",
+          "lot": "725",
+          "estimate": "300 000 - 500 000 DKK",
+          "result": "78 000 EUR"
+        }
+      ]
+    },
+    {
+      "title": "У костра",
+      "image": "974580_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "68,5х73,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "05.06.2008",
+        "auction_house": "Uppsala Auktionskammare",
+        "estimate": "107 000 - 161 000 EUR",
+        "sale_price": "183 920 USD"
+      },
+      "sales_history": [
+        {
+          "date": "05.06.2008",
+          "auction_house": "Uppsala Auktionskammare Uppsala (SE)",
+          "lot": "949",
+          "estimate": "107 000 - 161 000 EUR",
+          "result": "1 100 000 SEK"
+        }
+      ]
+    },
+    {
+      "title": "Московские сценки",
+      "image": "989700_small.jpg",
+      "creation_year": "сер. - вт. пол. ХIХ в",
+      "dimensions_cm": "46х38",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "31.05.2008",
+        "auction_house": "Гелос",
+        "estimate": "230 000 - 230 000 RUR",
+        "sale_price": "250 000 RUR"
+      },
+      "sales_history": [
+        {
+          "date": "31.05.2008",
+          "auction_house": "Гелос Москва (RU)",
+          "lot": "318-",
+          "estimate": "230 000 - 230 000 RUR",
+          "result": "250 000 RUR"
+        }
+      ]
+    },
+    {
+      "title": "Угощение чиновников",
+      "image": "1041480_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "24х31",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "06.12.2007",
+        "auction_house": "Uppsala Auktionskammare",
+        "estimate": "44 000 - 54 000 EUR",
+        "sale_price": "112 176 USD"
+      },
+      "sales_history": [
+        {
+          "date": "06.12.2007",
+          "auction_house": "Uppsala Auktionskammare Uppsala (SE)",
+          "lot": "923",
+          "estimate": "44 000 - 54 000 EUR",
+          "result": "720 000 SEK"
+        }
+      ]
+    },
+    {
+      "title": "Figure",
+      "image": "3084030_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "40х31",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "28.02.2007",
+        "auction_house": "Montefiore",
+        "estimate": "7 000 - 9 000 USD",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "28.02.2007",
+          "auction_house": "Montefiore Tel-Aviv (IL)",
+          "lot": "275",
+          "estimate": "7 000 - 9 000 USD",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Пожилая пара на проселочной дороге",
+      "image": "",
+      "creation_year": "1882",
+      "dimensions_cm": "34х49",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "08.04.2006",
+        "auction_house": "Van Ham",
+        "estimate": "27 000 - 27 000 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "08.04.2006",
+          "auction_house": "Van Ham Köln (DE)",
+          "lot": "2012-",
+          "estimate": "27 000 - 27 000 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Сельский праздник",
+      "image": "f5afa174cdb868286fba319a11853ec2_small.jpg",
+      "creation_year": "1869",
+      "dimensions_cm": "48х59,8",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "01.12.2004",
+        "auction_house": "Sothebys",
+        "estimate": "40 000 - 60 000 GBP",
+        "sale_price": "90 441 USD"
+      },
+      "sales_history": [
+        {
+          "date": "01.12.2004",
+          "auction_house": "Sothebys London",
+          "lot": "14-",
+          "estimate": "40 000 - 60 000 GBP",
+          "result": "46 800 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Портрет художника Ивана Петровича Богданова",
+      "image": "24813_small.jpeg",
+      "creation_year": null,
+      "dimensions_cm": "21х12,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "21.11.2001",
+        "auction_house": "Christies",
+        "estimate": "500 - 800 GBP",
+        "sale_price": "1 162 USD"
+      },
+      "sales_history": [
+        {
+          "date": "21.11.2001",
+          "auction_house": "Christies London",
+          "lot": "124-",
+          "estimate": "500 - 800 GBP",
+          "result": "823 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Свидание любовников",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "51х43,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "23.11.2000",
+        "auction_house": "Sothebys",
+        "estimate": "8 000 - 10 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "23.11.2000",
+          "auction_house": "Sothebys London",
+          "lot": "67-",
+          "estimate": "8 000 - 10 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Встреча чиновника",
+      "image": "899e3493e3cca87f2fff98640725668b_small.jpeg",
+      "creation_year": "1867",
+      "dimensions_cm": "20х28,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "23.11.2000",
+        "auction_house": "Sothebys",
+        "estimate": "10 000 - 15 000 GBP",
+        "sale_price": "29 067 USD"
+      },
+      "sales_history": [
+        {
+          "date": "23.11.2000",
+          "auction_house": "Sothebys London",
+          "lot": "34-",
+          "estimate": "10 000 - 15 000 GBP",
+          "result": "20 625 GBP"
+        },
+        {
+          "date": "19.12.1996",
+          "auction_house": "Sothebys London",
+          "lot": "90-",
+          "estimate": "6 000 - 8 000 GBP",
+          "result": "9 600 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Разговор в баре",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "26х33",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "08.10.1998",
+        "auction_house": "Sothebys",
+        "estimate": "1 000 - 1 500 GBP",
+        "sale_price": "2 190 USD"
+      },
+      "sales_history": [
+        {
+          "date": "08.10.1998",
+          "auction_house": "Sothebys London",
+          "lot": "1021-",
+          "estimate": "1 000 - 1 500 GBP",
+          "result": "1 265 GBP"
+        }
+      ]
+    },
+    {
+      "title": "Интерьер питейного дома",
+      "image": "",
+      "creation_year": null,
+      "dimensions_cm": "18х25",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "07.10.1998",
+        "auction_house": "Sothebys",
+        "estimate": "1 200 - 1 800 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "07.10.1998",
+          "auction_house": "Sothebys London",
+          "lot": "29-",
+          "estimate": "1 200 - 1 800 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Интерьер",
+      "image": "",
+      "creation_year": "1860",
+      "dimensions_cm": "21,5х29,5",
+      "technique": "Картон на холсте; масло",
+      "latest_sale_details": {
+        "date": "04.10.1995",
+        "auction_house": "Auktionshaus Michael Zeller",
+        "estimate": "2 500 - 2 500 DEM",
+        "sale_price": "2 011 USD"
+      },
+      "sales_history": [
+        {
+          "date": "04.10.1995",
+          "auction_house": "Auktionshaus Michael Zeller Lindau (DE)",
+          "lot": "809-",
+          "estimate": "2 500 - 2 500 DEM",
+          "result": "4 800 DEM"
+        }
+      ]
+    },
+    {
+      "title": "Зимний пейзаж с фигурами",
+      "image": "",
+      "creation_year": "1877",
+      "dimensions_cm": "30х23",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.12.1993",
+        "auction_house": "Sothebys",
+        "estimate": "3 000 - 5 000 GBP",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.12.1993",
+          "auction_house": "Sothebys London",
+          "lot": "9-",
+          "estimate": "3 000 - 5 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    }
+  ]
+}
