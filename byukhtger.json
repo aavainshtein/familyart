@@ -1,0 +1,657 @@
+{
+  "artist": "Бюхтгер Роберт Германович",
+  "data_source": "ARTinvestment.RU",
+  "artworks": [
+    {
+      "title": "Bouquet of roses",
+      "image": "8097210_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "31,5х26",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "31.03.2025",
+        "auction_house": "Hermitage Fine Art",
+        "estimate": "400 - 600 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "31.03.2025",
+          "auction_house": "Hermitage Fine Art Monaco (MC)",
+          "lot": "159-",
+          "estimate": "400 - 600 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Три украинца",
+      "image": "8067310_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "14х18",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "18.03.2025",
+        "auction_house": "Cazo",
+        "estimate": "300 - 300 EUR",
+        "sale_price": "284 USD"
+      },
+      "sales_history": [
+        {
+          "date": "18.03.2025",
+          "auction_house": "Cazo Paris (FR)",
+          "lot": "16-",
+          "estimate": "300 - 300 EUR",
+          "result": "260 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Am See",
+      "image": "6257970_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "80х95",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "200 - 300 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1434",
+          "estimate": "200 - 300 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Staffelsee-Stimmung",
+      "image": "6257890_small.jpg",
+      "creation_year": "1942",
+      "dimensions_cm": "100х150",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "500 - 800 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1432",
+          "estimate": "500 - 800 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Kleiner Wasserfall im Wald",
+      "image": "6258030_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "61х80,5",
+      "technique": "Оргалит; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "150 - 200 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1436",
+          "estimate": "150 - 200 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Staffelsee-Stimmung",
+      "image": "6257930_small.jpg",
+      "creation_year": "1942",
+      "dimensions_cm": "70,5х100",
+      "technique": "Оргалит; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "200 - 300 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1433",
+          "estimate": "200 - 300 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Abendstimmung im Wald an einem Bergsee",
+      "image": "6258010_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "99,5х150,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "400 - 600 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1435",
+          "estimate": "400 - 600 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Maria Büchtger",
+      "image": "6257410_small.jpg",
+      "creation_year": "1905",
+      "dimensions_cm": "180х99,5",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "500 - 800 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1423",
+          "estimate": "500 - 800 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Grüß Gott",
+      "image": "6257490_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "140х80",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "400 - 600 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1424",
+          "estimate": "400 - 600 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Badende Frauen am See",
+      "image": "6257530_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "100х80",
+      "technique": "Оргалит; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "300 - 500 EUR",
+        "sale_price": "329 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1425",
+          "estimate": "300 - 500 EUR",
+          "result": "300 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Fritz Büchtger als Kind",
+      "image": "6257730_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "38,5х34",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "100 - 150 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1427",
+          "estimate": "100 - 150 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "See und Berge",
+      "image": "6259610_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "80х95",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "150 - 220 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1438",
+          "estimate": "150 - 220 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Frühlingslied",
+      "image": "6259650_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "60х80",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "150 - 220 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1439",
+          "estimate": "150 - 220 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Die drohende Stimmung",
+      "image": "6259750_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "61х80",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "150 - 200 EUR",
+        "sale_price": "187 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1441",
+          "estimate": "150 - 200 EUR",
+          "result": "170 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Ahlbeck",
+      "image": "6259790_small.jpg",
+      "creation_year": "1939",
+      "dimensions_cm": "36х24",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "100 - 150 EUR",
+        "sale_price": "143 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1442",
+          "estimate": "100 - 150 EUR",
+          "result": "130 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Mondnacht",
+      "image": "6259830_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "80х95",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "150 - 220 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1444",
+          "estimate": "150 - 220 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Russisches Dorf",
+      "image": "6259950_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "24х35,5",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "120 - 150 EUR",
+        "sale_price": "132 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1445",
+          "estimate": "120 - 150 EUR",
+          "result": "120 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Blumenstrauß",
+      "image": "6260110_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "37,5х50",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "80 - 120 EUR",
+        "sale_price": "121 USD"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1449",
+          "estimate": "80 - 120 EUR",
+          "result": "110 EUR"
+        }
+      ]
+    },
+    {
+      "title": "Zwei Gemälde: Enten im Teich bzw. Seeufer (2)",
+      "image": "6260150_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "25,5х35,5",
+      "technique": "Холст; масло (2)",
+      "latest_sale_details": {
+        "date": "15.05.2021",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "250 - 350 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "15.05.2021",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "1450",
+          "estimate": "250 - 350 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Букет цветов",
+      "image": "5482290_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "31,5х26",
+      "technique": "Картон; масло",
+      "latest_sale_details": {
+        "date": "21.11.2019",
+        "auction_house": "Hermitage Fine Art",
+        "estimate": "600 - 600 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "21.11.2019",
+          "auction_house": "Hermitage Fine Art Monaco (MC)",
+          "lot": "1224-",
+          "estimate": "600 - 600 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Натюрморт с цветами",
+      "image": "1861170_small.jpg",
+      "creation_year": "Пер. пол. XX",
+      "dimensions_cm": "29х24",
+      "technique": "Дерево; масло",
+      "latest_sale_details": {
+        "date": "27.04.2019",
+        "auction_house": "Hermitage Fine Art",
+        "estimate": "600 - 800 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "27.04.2019",
+          "auction_house": "Hermitage Fine Art Monaco (MC)",
+          "lot": "949",
+          "estimate": "600 - 800 EUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "16.12.2013",
+          "auction_house": "Coutau-Begarie Paris",
+          "lot": "343",
+          "estimate": "1 000 - 1 500 EUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "28.10.2010",
+          "auction_house": "Галерея Леонида Шишкина Москва (RU)",
+          "lot": "81-",
+          "estimate": "150 000 - 150 000 RUR",
+          "result": "Нет результата &lt;"
+        }
+      ]
+    },
+    {
+      "title": "Reclining Nude by a Lake Shore",
+      "image": "4093170_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "33х41,9",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "21.07.2017",
+        "auction_house": "Skinner",
+        "estimate": "600 - 800 USD",
+        "sale_price": "369 USD"
+      },
+      "sales_history": [
+        {
+          "date": "21.07.2017",
+          "auction_house": "Skinner Boston, MA (US)",
+          "lot": "1381",
+          "estimate": "600 - 800 USD",
+          "result": "369 USD"
+        }
+      ]
+    },
+    {
+      "title": "Study of Clouds with Sun Setting over the Sea",
+      "image": "2953770_small.jpg",
+      "creation_year": "1910-1920s",
+      "dimensions_cm": "50х70",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "02.03.2016",
+        "auction_house": "Auctionata",
+        "estimate": "400 - 520 EUR",
+        "sale_price": "Нет данных от аукциона"
+      },
+      "sales_history": [
+        {
+          "date": "02.03.2016",
+          "auction_house": "Auctionata Berlin (DE)",
+          "lot": "95",
+          "estimate": "400 - 520 EUR",
+          "result": "Нет данных"
+        },
+        {
+          "date": "08.04.2014",
+          "auction_house": "Dorotheum Vienna (AT)",
+          "lot": "52",
+          "estimate": "3 000 - 4 000 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Study of Clouds with Shafts of Sunlight over the Sea",
+      "image": "3094790_small.jpg",
+      "creation_year": "1910-1920s",
+      "dimensions_cm": "19х30,5",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "02.03.2016",
+        "auction_house": "Auctionata",
+        "estimate": "400 - 520 EUR",
+        "sale_price": "489 USD"
+      },
+      "sales_history": [
+        {
+          "date": "02.03.2016",
+          "auction_house": "Auctionata Berlin (DE)",
+          "lot": "94",
+          "estimate": "400 - 520 EUR",
+          "result": "450 EUR"
+        },
+        {
+          "date": "18.09.2014",
+          "auction_house": "Dorotheum Vienna (AT)",
+          "lot": "289",
+          "estimate": "1 500 - 2 000 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Cloud Formations",
+      "image": "3525810_small.jpg",
+      "creation_year": "1910-1920s",
+      "dimensions_cm": "37х50",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "02.03.2016",
+        "auction_house": "Auctionata",
+        "estimate": "400 - 520 EUR",
+        "sale_price": "Нет данных от аукциона"
+      },
+      "sales_history": [
+        {
+          "date": "02.03.2016",
+          "auction_house": "Auctionata Berlin (DE)",
+          "lot": "93",
+          "estimate": "400 - 520 EUR",
+          "result": "Нет данных"
+        }
+      ]
+    },
+    {
+      "title": "Russian Horse Market",
+      "image": "3452010_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "12,5х18",
+      "technique": "Доска; масло",
+      "latest_sale_details": {
+        "date": "07.12.2015",
+        "auction_house": "Dorotheum",
+        "estimate": "1 200 - 1 500 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "07.12.2015",
+          "auction_house": "Dorotheum Vienna (AT)",
+          "lot": "113",
+          "estimate": "1 200 - 1 500 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Маленькая девочка с вязаньем",
+      "image": "2924250_small.jpg",
+      "creation_year": "1901",
+      "dimensions_cm": "139,8х61",
+      "technique": "Холст; масло",
+      "latest_sale_details": {
+        "date": "11.03.2014",
+        "auction_house": "Dorotheum",
+        "estimate": "1 500 - 2 000 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "11.03.2014",
+          "auction_house": "Dorotheum Vienna (AT)",
+          "lot": "102",
+          "estimate": "1 500 - 2 000 EUR",
+          "result": "Лот не продан"
+        },
+        {
+          "date": "29.11.2007",
+          "auction_house": "Christies London, South Kensington",
+          "lot": "1118-",
+          "estimate": "3 500 - 4 000 GBP",
+          "result": "Лот не продан"
+        }
+      ]
+    },
+    {
+      "title": "Портрет молодой женщины",
+      "image": "2288230_small.jpg",
+      "creation_year": null,
+      "dimensions_cm": "68х51,5",
+      "technique": "Холст на доске; масло",
+      "latest_sale_details": {
+        "date": "12.04.2012",
+        "auction_house": "Dr. Fischer - Fine Art Auctions",
+        "estimate": "800 - 900 EUR",
+        "sale_price": "Лот не продан"
+      },
+      "sales_history": [
+        {
+          "date": "12.04.2012",
+          "auction_house": "Dr. Fischer - Fine Art Auctions Heilbronn (DE)",
+          "lot": "607",
+          "estimate": "800 - 900 EUR",
+          "result": "Лот не продан"
+        }
+      ]
+    }
+  ]
+}
