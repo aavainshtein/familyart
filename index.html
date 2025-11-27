@@ -999,6 +999,39 @@
         outline: none;
       }
 
+      .calc-row input[type="checkbox"] {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 18px;
+        height: 18px;
+        border: 2px solid rgba(255, 255, 255, 0.4);
+        border-radius: 4px;
+        background: rgba(255, 255, 255, 0.1);
+        cursor: pointer;
+        position: relative;
+        vertical-align: middle;
+      }
+
+      .calc-row input[type="checkbox"]:checked {
+        background: #ffd700;
+        border-color: #ffd700;
+      }
+
+      .calc-row input[type="checkbox"]:checked::after {
+        content: "✓";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #1a1a2e;
+        font-size: 14px;
+        font-weight: bold;
+      }
+
+      .calc-row input[type="checkbox"]:hover {
+        border-color: #ffd700;
+      }
+
       .calc-row input[type="range"] {
         -webkit-appearance: none;
         appearance: none;
@@ -2960,6 +2993,12 @@
         const foreignCount = soldWorks.filter((w) => w.isForeign).length;
         const russianCount = soldWorks.length - foreignCount;
 
+        // Статистика для непроданных
+        const unsoldForeignCount = unsoldEstimates.filter(
+          (w) => w.isForeign
+        ).length;
+        const unsoldRussianCount = unsoldEstimates.length - unsoldForeignCount;
+
         // Объединяем данные для расчёта если включены непроданные
         const worksForCalc = includeUnsold
           ? [...soldWorks, ...unsoldEstimates]
@@ -3008,14 +3047,16 @@
           <div class="analytics-stat">
             <div class="analytics-stat-value ${
               unsoldEstimates.length > soldWorks.length ? "warning" : ""
-            }">${unsoldEstimates.length}${includeUnsold ? " ✓" : ""}</div>
-            <div class="analytics-stat-label">Не продано${
-              includeUnsold ? " (×" + estimateDiscount + ")" : ""
+            }">${unsoldRussianCount} / ${unsoldForeignCount}${
+          includeUnsold ? " ✓" : ""
+        }</div>
+            <div class="analytics-stat-label">Не продано (РФ/Заруб)${
+              includeUnsold ? " ×" + estimateDiscount : ""
             }</div>
           </div>
           <div class="analytics-stat">
             <div class="analytics-stat-value">${russianCount} / ${foreignCount}</div>
-            <div class="analytics-stat-label">РФ / Зарубеж</div>
+            <div class="analytics-stat-label">Продано (РФ/Заруб)</div>
           </div>
           <div class="analytics-stat">
             <div class="analytics-stat-value">${
@@ -3110,9 +3151,38 @@
                   }${item.isEstimate ? " estimate" : ""}" 
                        ${
                          item.formulaData
-                           ? `title="${item.isEstimate 
-                               ? `Формула: ${item.formulaData.amount.toLocaleString("ru-RU")} ${item.formulaData.currency} × ${item.formulaData.rate.toFixed(2)} ₽${item.formulaData.foreignDiscount < 1 ? ' × ' + item.formulaData.foreignDiscount + ' (заруб.)' : ''} × ${item.formulaData.estimateDiscount} (эст.) = ${formatRub(item.priceRub)}\n(эстимейт до коэфф.: ${formatRub(item.formulaData.priceBeforeEstDiscount)})`
-                               : `Формула: ${item.formulaData.amount.toLocaleString("ru-RU")} ${item.formulaData.currency} × ${item.formulaData.rate.toFixed(2)} ₽ × ${item.formulaData.discount} = ${formatRub(item.priceRub)}\n(до дисконта: ${formatRub(item.formulaData.priceBeforeDiscount)})`
+                           ? `title="${
+                               item.isEstimate
+                                 ? `Формула: ${item.formulaData.amount.toLocaleString(
+                                     "ru-RU"
+                                   )} ${
+                                     item.formulaData.currency
+                                   } × ${item.formulaData.rate.toFixed(2)} ₽${
+                                     item.formulaData.foreignDiscount < 1
+                                       ? " × " +
+                                         item.formulaData.foreignDiscount +
+                                         " (заруб.)"
+                                       : ""
+                                   } × ${
+                                     item.formulaData.estimateDiscount
+                                   } (эст.) = ${formatRub(
+                                     item.priceRub
+                                   )}\n(эстимейт до коэфф.: ${formatRub(
+                                     item.formulaData.priceBeforeEstDiscount
+                                   )})`
+                                 : `Формула: ${item.formulaData.amount.toLocaleString(
+                                     "ru-RU"
+                                   )} ${
+                                     item.formulaData.currency
+                                   } × ${item.formulaData.rate.toFixed(
+                                     2
+                                   )} ₽ × ${
+                                     item.formulaData.discount
+                                   } = ${formatRub(
+                                     item.priceRub
+                                   )}\n(до дисконта: ${formatRub(
+                                     item.formulaData.priceBeforeDiscount
+                                   )})`
                              }"`
                            : ""
                        }>
